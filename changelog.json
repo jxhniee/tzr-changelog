@@ -2,8 +2,13 @@
   {
     "version": "1.0.0",
     "date": "2026-05-09",
-    "changes": [
-      "Initial release"
+    "title": "Initial Release",
+    "content": [
+      { "type": "header", "text": "New Features" },
+      { "type": "bullet", "text": "Added modifier voting system" },
+      { "type": "bullet", "text": "Added badge lock display" },
+      { "type": "header", "text": "Bug Fixes" },
+      { "type": "bullet", "text": "Fixed spawn point logic" }
     ]
   }
 ]
