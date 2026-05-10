@@ -727,5 +727,117 @@
       }
     ],
     "dev_comment": "After the long hiatus, the team of TZR has come together to release not release one huge update, but split it into two! Be prepared to be blasted with new content!"
+  },
+  {
+    "version": "26.4.7",
+    "date": "2025-10-08",
+    "title": "The Two Hurrahs Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          {
+            "New Armors:": [
+              "Legion XIV Armor",
+              "Legion XIII Armor"
+            ]
+          },
+          {
+            "New Features:": [
+              "UI has been redsigned!",
+              "Added a \u201creverse vote\u201d button to the skip intermission (only works in multiplayer servers)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Adjustments",
+        "items": [
+          {
+            "Sentries now priorities targeting the owner's marked target (using eye augments) if valid.": [
+              "Applies to hired Infantry and Tank, along with any Infantry units with a player as their squad leader"
+            ]
+          },
+          "Reverted Player Regen buff"
+        ]
+      },
+      {
+        "header": "NPC Adjustments",
+        "items": [
+          {
+            "Helicopters:": [
+              "Greatly increased the range at which you can tp to available Albatrosses"
+            ]
+          },
+          {
+            "Tank:": [
+              "Reverted Tank DMG buff"
+            ]
+          },
+          {
+            "Infantry:": [
+              "Nerfed RDF's damage output,",
+              "Attica rebalanced: Spawns 3 recons instead of 2, HP: 25k -> 14k",
+              "Jorg can now teleport back up to his roof position if knocked off"
+            ]
+          },
+          "Hellas rebalanced: Spawns 3 Grenadiers instead of 2 Recons, HP: 25k -> 18k",
+          "All AOE damage by enemies now uses the damage module, which should proc undying"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          {
+            "Potassium Enforcer buffed:": [
+              "DMG: 1111 -> 1234",
+              "RPM: 85 -> 255",
+              "Mag: 4 -> 16"
+            ]
+          },
+          "Renamed TGK",
+          "All melee weapons/tools will swing automatically when held down"
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          "Wheelchair:",
+          "Discounts come 2 waves earlier, and total discounts increased from 1500 to 3000 (like marine armor)",
+          {
+            "Legion XII Phoenix:": [
+              "Price: 6600 -> 8000 Discounts come 1 wave earlier, and total discounts increased from 600 to 2000"
+            ]
+          },
+          {
+            "Standard Phoenix & Grenadier Armor:": [
+              "Price: 8000 -> 9000 Discounts come 1 wave earlier, and total discounts increased from 800 to 2000"
+            ]
+          },
+          {
+            "Totenkopf Armor:": [
+              "Price: 15000 -> 13000 Now has a discount of 1000 at wave 10"
+            ]
+          },
+          {
+            "Armor of Acknee:": [
+              "Price: 20000 -> 17770 Still no discounts Maintenance for Totenkopf and Acknee reduced by 30%"
+            ]
+          },
+          "Debellaturus (when used with the Armor of Acknee) now always provide an attack speed bonus of +33%. However, dropping below 50% MF will now instead reduce your base HP by 50.",
+          "Armor of Acknee, Totenkopf Armor, and Legion XIV now buff RDF and Titan Turrets damage when worn (stacks in MP)",
+          "Armor of Acknee's weight reduced to 150",
+          "Reduced the negative effect weight has on speed",
+          "Reduced sprinting speed of enemy ultratechs",
+          "Freshened up Classic a bit",
+          "Changes were done to these following maps, so they are all now similar size to Classic (Vale and Under Siege left unchanged):",
+          "Lazy Winter: Length shortened by 100 studs, width by 200; added background mountains behind center zombie spawn",
+          "Wargame: Length shortened by 100 studs, width by 200; added a prop on the right side to fill empty space; will be revisited for a full rework,",
+          "Ballad: Length shortened by 100 studs,",
+          "Undead Site: Length shortened by 100 studs, width by 200 (should help with the contract for the Alexios Update)"
+        ]
+      }
+    ],
+    "dev_comment": "The TZR Team for the most part has been juggling between work and development on this game for nearly 2 months. For that reason, we unfortunately hadn't been able to put out any major content for this patch. However, the next 'major' update will include a new contract, a revisit of Civil War and Divergence balance and flavor, alongside new weapons, armor and potentially even fleshing out the RDF, Melee system and the Perk System! Though nothing said here is concrete, these are some of the things that have been planned, and we hope to pick up the pace for the final months of 2025! Until then, cheers!"
   }
 ]
