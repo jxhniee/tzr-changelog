@@ -1107,6 +1107,27 @@
           "Reliable data saving; will not lose data.",
           "Fixed data loading reappearing when a game finishes."
         ]
+      },
+      {
+        "header": "Bug Fixes & Other Adjustments",
+        "items": [
+          "Fixed scherz smoke flowing sideways.",
+          "Fixed losing coins when nobody has Bounty Hunter.",
+          "Repair keybind for PCs is now \"C\".",
+          "Zath gas will no longer kill through undying.",
+          "Fixed custom mode modifiers.",
+          "Removed contracts that weren\u2019t finished.",
+          "Optimized damage indicators (adjustable in settings in future updates).",
+          "Fixed mobile shift-lock.",
+          "Vale Contract has been fixed; players can now earn both the badge and the XP reward.",
+          "Custom Mode has been fixed.",
+          "Vale contract description has been slightly improved.",
+          "Vale canister objective has been slightly improved.",
+          "Vale now works in Endless mode; waves flood beyond wave 10.",
+          "Under Siege now works in Endless mode; thunderstorms continue beyond wave 10.",
+          "Fixed being able to capture enemies while they're alive.",
+          "Fixed wrench staying green when changing active building, confusing new players."
+        ]
       }
     ],
     "dev_comment": "This is what you've been dreading for."
