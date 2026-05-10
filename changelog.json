@@ -1807,6 +1807,80 @@
     ]
   },
   {
+    "version": "24.5.0",
+    "date": "2024-10-12",
+    "title": "The Doukas Update",
+    "content": [
+      {
+        "header": "Boss Reworks",
+        "items": [
+          "Cypher",
+          "Joe",
+          "Dark Practicioner"
+        ]
+      },
+      {
+        "header": "New Weapons",
+        "items": [
+          "Added AA-12, an automatic shotgun chambered in the same rounds as the Benelli M4 but 5x the damage potential!",
+          "Added ShAK-50, fictional gun based on the Russian bullpup rifle ShAK-12, chambered in THE .50 cal, as opposed to the 12.7mm subsonic intermediary round.",
+          "Added M2A1 Browning**, famous American machine gun thats somehow handheld.",
+          "Added M7, based on the XM7, chambered in the 6.8mm for some damage on an infantry rifle!",
+          "Added M250, based on the XM250, similarly chambered in the 6.8cm, a supposed successor to the M249! [Locked behind Endsieg]"
+        ]
+      },
+      {
+        "header": "Rebalances",
+        "items": [
+          {
+            "M249 Rebalanced:": [
+              "Cost: $2700 \u2192 1600",
+              "DMG: 75 \u2192 41",
+              "Damage reduced to better reflect the 5.56mm NATO round.",
+              "M134 Existed"
+            ]
+          },
+          "Renamed M200",
+          {
+            "Intervention Buffed": [
+              "DMG: 375 \u2192 600",
+              "Removed the unique headshot bounce"
+            ]
+          },
+          {
+            "M82:": [
+              "DMG: 1200 \u2192 1500"
+            ]
+          },
+          "M72, RPG-7, Panzerfaust 3 equip time halved and is now affected by reload speed.",
+          "added respawn timer -Added new arms and leg augments",
+          "Walkspeed reduction from weight reworked",
+          "Buffed Tier 1 \u2192 4 Sentries, rebalanced T5 & T6",
+          "Reinstated Azura Award",
+          "vehicle triggers removed (you will get stuck more often in allied vehicles, but weird edge cases like flinging should no longer happen, this will be revisited later)",
+          "units that dont give xp now give xp",
+          "buildings no longer cause crippling lag to everything",
+          "crawlers no longer have hitbox above them",
+          "xm schiltron collison fixed",
+          "added an invisible roof above spawn to disable jets hitting spawn (U CANT STAND ON IT THO!!!!)",
+          "buildings display extended stats -golden tony no longer appears in solo",
+          "condor.... is fixed",
+          "Accurate data loading indicator, should be more obvious when stuff is not loading properly",
+          "increased hitbox size for lightsaber and darksaber",
+          "Slick now reduces weight penalty",
+          "fixed foresight not showing cypher with a cyan arrow",
+          "bosses and heroes are displayed differently on foresight"
+        ]
+      },
+      {
+        "header": "**New Badge:**",
+        "items": [
+          "\"Unwavering yet precise, just like the weapon that stands before you.\" // (A true challenge in plain sight?)"
+        ]
+      }
+    ]
+  },
+  {
     "version": "24.3.0",
     "date": "2024-09-21",
     "title": "The Komnenos Update",
