@@ -1368,8 +1368,105 @@
           "Fixed Headless Giant not attacking and breaking",
           "Fixed the ships not providing coastal bombardment in Vale"
         ]
+      }
+    ]
+  },
+{
+    "version": "25.3.7",
+    "date": "2025-04-12",
+    "title": "Huy's Random Assortment of Things 01",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "New HP regen display",
+          "Air Hunters now have fuel"
+        ]
       },
       {
+        "header": "Hero Adjustments",
+        "items": [
+          "All heroes now provide a buff or can get buffed themselves.",
+          {"Jorg:": ["Falcons are called in twice as frequently to provide air support"]},
+          {"Dark Champion:": ["Immune to toxic gas and provides all allies an immunity to toxic gas until he dies"]},
+          {"Lion Ace:": ["Main Cannon gains 5% DPS per Infantry Upgrade"]},
+          {"Sky Terror:": ["Gains 10% HP per Aviation Upgrade"]},
+          {"Emigna:": ["Every ally NPCs on the map will increase her DMG by 2%"]},
+          {"Jamie:": ["Players gain +25% HP Regen"]}
+        ]
+      },
+      {
+        "header": "Primary Adjustments:",
+        "items": [
+          "NERFED TIER 6 SENTRIES",
+          "DPS (EACH): 2250 -> 1250",
+          {"HS-21:": ["DMG: 35 -> 41"]},
+          {"G36:": ["Accuracy: 96% -> 100% (less recoil)"]},
+          {"M200 Intervention:": [
+            "DMG: 600 -> 1,300",
+            "RPM: 52 -> 30 (THE RPM IS NOT A NERF. The chambering time was not accounted for and thus the display was incorrect compared to its actual performance. Also damage buff as it was heavily underperforming.)"
+          ]},
+          {"AA-12:": ["DMG: 300 -> 450"]},
+          {"M82:": ["DMG: 1,500 -> 1,800"]},
+          {"HS-40 Mangonel:": [
+            "DMG: 3,000 -> 4,000",
+            "Accuracy: 90% -> 94%",
+            "Ammo: 3/21 -> 4/28",
+            "Reduced Recoil"
+          ]},
+          {"XM-Invictus:": [
+            "DMG: 650 -> 850",
+            "NOTE: Higher sustained DPS and higher downtime compared to the CC-10"
+          ]},
+          {"Potassium Enforcer:": ["DMG: 2,222 -> 2,666"]},
+          {"ShAK-50:": ["DMG: 430 -> 520", "Accuracy: 92% -> 95%"]},
+          {"PP2000:": ["Accuracy: 92% -> 93%", "DMG: 330 -> 350"]}
+        ]
+      },
+      {
+        "header": "Melee Adjustments:",
+        "items": [
+          "Increased attack speed of most melee weapons, their damage also decreased by the attack speed gained. This change is solely to increase the frequency of attacks for some weapons",
+          {"Knife:": ["DMG: 140 -> 170"]},
+          {"The Golden Katana:": ["DPS: 6000 -> 7500"]},
+          {"Price Updates:": [
+            "Sword n Shield price: 800 -> 600",
+            "Feuerkuss price: 1500 -> 900",
+            "Feurregen price: 2000 -> 1200",
+            "Feuersturm price: 4000 -> 3000",
+            "Bananas price: 5000(?) -> 4000",
+            "Lightsaber price: 6500 -> 4500",
+            "Zeushammer price: 8000 -> 6000",
+            "Feuerlanze price: 9000 -> 6000",
+            "Dark Saber price: 10000 -> 7500",
+            "Dezimator price: 15000 -> 16500",
+            "Debellaturus price: 15000 -> 16500",
+            "Ignis price: 25000 -> 30000"
+          ]}
+        ]
+      },
+      {
+        "header": "Perk Adjustments:",
+        "items": [
+          {"Tough Nut:": ["now caps out at 600 HP/s"]},
+          {"Combined Arms:": ["DMG: +15% -> +9%", "DMG (Additional): +5% -> 4%"]}
+        ]
+      },
+      {
+        "header": "Titan Turret Adjustments:",
+        "items": [
+          "Titan Turrets no longer affects BOTH damage and rpm",
+          {"Titan Turret rebalanced:": [
+            "No longer gets the free firepower upgrade",
+            "Firepower:",
+            "Price: 1500 -> 2500",
+            "DMG: +300 -> +325",
+            "Range:",
+            "DMG: +0 -> +75"
+          ]}
+        ]
+      },
+       {
         "header": "Other Adjustments",
         "items": [
           "**Maus now gives 4k from 2k**",
@@ -1410,184 +1507,6 @@
           "Added a damage/kills display",
           "Removed RDF Nerf, Coin Nerf from Bri\u2019ish",
           "Coin hogging nerfed by reducing the share you get from directly collecting it."
-        ]
-      }
-    ]
-  },
-  {
-    "version": "25.3.8",
-    "date": "2025-04-12",
-    "title": "Huy's Random Assortment of Things 01",
-    "content": [
-      {
-        "header": "New Content & Features:",
-        "items": [
-          "New HP regen display",
-          "Air Hunters now have fuel"
-        ]
-      },
-      {
-        "header": "Hero Adjustments",
-        "items": [
-          "All heroes now provide a buff or can get buffed themselves.",
-          {
-            "Jorg:": [
-              "Falcons are called in twice as frequently to provide air support"
-            ]
-          },
-          {
-            "Dark Champion:": [
-              "Immune to toxic gas and provides all allies an immunity to toxic gas until he dies"
-            ]
-          },
-          {
-            "Lion Ace:": [
-              "Main Cannon gains 5% DPS per Infantry Upgrade"
-            ]
-          },
-          {
-            "Sky Terror:": [
-              "Gains 10% HP per Aviation Upgrade"
-            ]
-          },
-          {
-            "Emigna:": [
-              "Every ally NPCs on the map will increase her DMG by 2%"
-            ]
-          },
-          {
-            "Jamie:": [
-              "Players gain +25% HP Regen"
-            ]
-          }
-        ]
-      },
-      {
-        "header": "**Primary Adjustments**:",
-        "items": [
-          "NERFED TIER 6 SENTRIES",
-          "DPS (EACH): 2250 -> 1250",
-          {
-            "**HS-21:**": [
-              "**DMG**: 35 -> **41**"
-            ]
-          },
-          {
-            "**G36**:": [
-              "**Accuracy**: 96% -> **100%** (less recoil)"
-            ]
-          },
-          {
-            "**M200 Intervention:**": [
-              "**DMG**: 600 -> **1,300**",
-              "**RPM**: 52 -> **30** (THE RPM IS NOT A NERF. The chambering time was not accounted for and thus the display was incorrect compared to its actual performance. Also damage buff as it was heavily underperforming.)"
-            ]
-          },
-          {
-            "**AA-12:**": [
-              "DMG: 300 -> **450**"
-            ]
-          },
-          {
-            "**M82**:": [
-              "**DMG**: 1,500 -> **1,800**"
-            ]
-          },
-          {
-            "**HS-40 Mangonel:**": [
-              "**DMG**: 3,000 -> **4,000**",
-              "**Accuracy**: 90% -> **94%**",
-              "**Ammo**: 3/21 -> **4/28**",
-              "**Reduced Recoil**"
-            ]
-          },
-          {
-            "**XM-Invictus**": [
-              "**DMG**: 650 -> **850**",
-              "NOTE: Higher sustained DPS and higher downtime compared to the CC-10"
-            ]
-          },
-          {
-            "**Potassium Enforcer**:": [
-              "**DMG**: 2,222 -> **2,666**"
-            ]
-          },
-          {
-            "**ShAK-50:**": [
-              "**DMG**: 430 -> **520**",
-              "**Accuracy**: 92% -> **95%**"
-            ]
-          },
-          {
-            "**PP2000**:": [
-              "**Accuracy**: 92% -> **93%**",
-              "**DMG**: 330 -> **350**"
-            ]
-          }
-        ]
-      },
-      {
-        "header": "Melee Adjustments:",
-        "items": [
-          "Increased attack speed of most melee weapons, their damage also decreased by the attack speed gained. This change is solely to increase the frequency of attacks for some weapons",
-          {
-            "**Knife**:": [
-              "**DMG**: 140 -> **170**"
-            ]
-          },
-          {
-            "**The Golden Katana**:": [
-              "**DPS**: 6000 -> **7500**"
-            ]
-          },
-          {
-            "**Price Updates:**": [
-              "**Sword n Shield price**: 800 -> **600**",
-              "**Feuerkuss price**: 1500 -> **900**",
-              "**Feurregen price**: 2000 -> **1200**",
-              "**Feuersturm price:** 4000 -> **3000**",
-              "**Bananas price: 5000(?)** -> **4000**",
-              "**Lightsaber price:** 6500 -> **4500**",
-              "**Zeushammer price:** 8000 -> **6000**",
-              "**Feuerlanze price:** 9000 -> **6000**",
-              "**Dark Saber price:** 10000 -> **7500**",
-              "**Dezimator price:** 15000 -> **16500**",
-              "**Debellaturus price:** 15000 -> **16500**",
-              "**Ignis price:** 25000 -> **30000**"
-            ]
-          }
-        ]
-      },
-      {
-        "header": "**Perk Adjustments:**",
-        "items": [
-          {
-            "**Tough Nut:**": [
-              "now caps out at 600 HP/s"
-            ]
-          },
-          {
-            "**Combined Arms**:": [
-              "**DMG**: +15% -> **+9%**",
-              "**DMG:** (Additional) +5% -> **4%**"
-            ]
-          }
-        ]
-      },
-      {
-        "header": "**Titan Turret Adjustments:**",
-        "items": [
-          "Titan Turrets no longer affects BOTH damage and rpm",
-          {
-            "Titan Turret rebalanced": [
-              "No longer gets the free firepower upgrade",
-              "**Firepower**:",
-              "**Price**: 1500 -> **2500**",
-              "**DMG**: +300 -> +**325**",
-              "**Range:**",
-              "**DMG**: +0 -> +**75**"
-            ]
-          }
         ]
       }
     ]
