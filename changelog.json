@@ -559,5 +559,136 @@
       }
     ],
     "dev_comment": "DISCLAIMER: Undead Site contract which was promised for this update will have to be delayed! We are doing our best to polish the contract but to ensure that you can enjoy the other new content we've prepared, Alexios Pt. 2 will be released, and the contract be pushed back onto a future update."
+  },
+  {
+    "version": "25.4.8",
+    "date": "2025-12-12",
+    "title": "The Alexios Update: Part One",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          "Mr. Jones has returned! However, during his break he was too busy enjoying the Fipher Island and forgot to make the plan for Undead Site. Undead Site Contract is set for Part Two.",
+          {
+            "Engineer has been redesigned with a new UI.": [
+              "A redesigned wrench menu has been added.",
+              "Multiple engineer adjustments have been made."
+            ]
+          },
+          {
+            "Settings has a new UI layout with additional gameplay features to well\u2026 enhance your preferences!": [
+              "No Starter Weapons (Money Refunded)",
+              "Joe\u2019s flashbang inversion (black instead of white)",
+              "Hide Allies highlight (This is for All Seeing Augment)"
+            ]
+          },
+          {
+            "Achievement display has been completely overhauled!": [
+              "New statistic section, to flex your career stats, and the achievement display has themes that matches your badge color!",
+              "New, updated, and enhanced achievement sections with filters for completed and locked achievements."
+            ]
+          },
+          {
+            "Jamie has retired, and is now kinda homeless! Mercenaries has been overhauled, Internally and externally!": [
+              "New Hero Upgrades and Level Up Systems to enhance your playstyles",
+              "RDF has been redesigned to look more cooler",
+              "Mercenaries tab is now on left side of the menu, unlocking around wave 1",
+              "Investments gained from mercenaries is now private (only you will benefit from it)"
+            ]
+          },
+          "Lots, and I mean\u2026 LOTS of new Badges!"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": []
+      },
+      {
+        "header": "Engineer Adjustments",
+        "items": [
+          "The in game Praedictus' actual DPS was incorrectly inputted at 34,600, not 15,000. (Please do note it has a reload of 12s, and it can pierce).",
+          "Sentry destruction now counts towards loss of March of the Eagle stacks",
+          "Sentry DMG (modifier) now no longer scales multiplicatively with perks modifiers but rather will scale additively.",
+          "Landmines now use sentry dmg formula (which will now benefit from perks)",
+          {
+            "Base Supply per Hit buffed:": [
+              "15 -> 20"
+            ]
+          },
+          {
+            "Max Supplies upgrades:": [
+              "Price (total): 5500 -> 4000"
+            ]
+          },
+          {
+            "Supply per Hit upgrades:": [
+              "Price (total): 7250 -> 5250"
+            ]
+          },
+          {
+            "Max Supplies upgrades:": [
+              "Price (total): 5500 -> 4000"
+            ]
+          },
+          {
+            "Supply per Hit upgrades:": [
+              "Price (total): 7250 -> 5250"
+            ]
+          },
+          {
+            "Max Building Supply upgrades:": [
+              "Price (total): 4250 -> 3500"
+            ]
+          },
+          {
+            "Sentry Supply Efficiency upgrades:": [
+              "Price (total): 5750 -> 3500"
+            ]
+          },
+          {
+            "Praedictus buffed:": [
+              "Price: 15,000 -> 10,000",
+              "Maintenance: 6000 -> 3500",
+              "Supply Per Shot: 750 -> 1500"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Grenades now use sentry dmg formula (which will now benefit from perks)",
+          "Removed equip time entirely for all weapons.",
+          "Added Cost effectiveness stat to guns (Price/DPS) to show relative value when comparing pure damage output.",
+          {
+            "CC10 buffed:": [
+              "Max Range: 1600 \u2192  2000"
+            ]
+          },
+          {
+            "Dual Fn Five SeveN buffed:": [
+              "Accuracy: 50% \u2192  60%"
+            ]
+          },
+          {
+            "HS-21 buffed:": [
+              "DMG: 55 \u2192  60"
+            ]
+          },
+          {
+            "XM-12 buffed:": [
+              "Maintenance: 950 -> 750"
+            ]
+          },
+          {
+            "XM-22 buffed:": [
+              "Price: 6900 -> 6400",
+              "Maintenance: 1050 -> 960"
+            ]
+          }
+        ]
+      }
+    ],
+    "dev_comment": "After the long hiatus, the team of TZR has come together to release not release one huge update, but split it into two! Be prepared to be blasted with new content!"
   }
 ]
