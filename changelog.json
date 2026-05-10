@@ -1,9 +1,23 @@
 [
   {
+    "version": "26.6.3",
+    "date": "May 9th, 2026",
+    "title": "Test Update",
+    "content": [
+      {
+        "header": "New Features",
+        "items": [
+          "This is a test bullet"
+        ]
+      }
+    ],
+    "dev_comment": "this is a test comment"
+  },
+  {
     "version": "26.6.2",
     "date": "March 16th, 2026",
     "title": "The Unexpected QoL Update!",
-    "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break…",
+    "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break\u2026",
     "content": [
       {
         "header": "Medkits Overhaul",
