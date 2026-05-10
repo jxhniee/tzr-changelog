@@ -1739,6 +1739,55 @@
     ]
   },
   {
+    "version": "24.3.0",
+    "date": "2024-09-21",
+    "title": "The Komnenos Update",
+    "content": [
+      {
+        "header": "New Enemies",
+        "items": [
+          "15 enemies added to Civil War",
+          "4 enemies added to Impossible"
+        ]
+      },
+      {
+        "header": "New Items:",
+        "items": [
+          "Item gamepasses now have 1 extra accompanying item.",
+          "Dark Saber renamed to Unrighteous Crusader - Including also the Grenadier Armour",
+          "Banana launcha renamed to Potassium - Including also Banana & Bananas Invictus",
+          "XM Bellum HS21 renamed to Hoch Schwein Series - Including also the HS40 \"Mangonel\""
+        ]
+      },
+      {
+        "header": "Badges Rework",
+        "items": [
+          "The new XM Schiltron is locked behind the new Forged from Fire badge.",
+          "The new Feuerkuss is locked behind the new Time Will Bear Witness badge.",
+          "The new Feuerlanze is unlockable without requirements.",
+          "To Impale the Hearts of Tyrants is now restarted! You must now earn the updated version of this badge.",
+          "All main badges now have a damage requirement! Dealing sufficient amount of damage will now also count towards wave contribution."
+        ]
+      },
+      {
+        "header": "UI Rework",
+        "items": [
+          "New Item Shop UI, Voting UI, Badge UI",
+          "Mercenary shop moved to an NPC.",
+          "New performance improvements. New settings"
+        ]
+      },
+      {
+        "header": "Re-balances",
+        "items": [
+          "Emigna nerfed Interest no longer activates twice and will no longer activate after receiving income.",
+          "Income UI hopefully more accurate now.",
+          "The Economic perk 'Scrap' now also triggers when successfully capturing a vehicle"
+        ]
+      }
+    ]
+  },
+  {
     "version": "24.2.0",
     "date": "2024-08-17",
     "title": "The Colt Collab Update",
