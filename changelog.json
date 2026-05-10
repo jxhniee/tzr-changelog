@@ -4,68 +4,86 @@
     "date": "March 16th, 2026",
     "title": "The Unexpected QoL Update!",
     "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break…",
-    "content": {
-      "Medkits Overhaul": [
-        "The new system allows the medkits to be on its own slot, with a keybind attached",
-        "Upon healing, it will auto-equip the last weapon used (So you don't have to struggle on reequipping your weapons)",
-        "Medkits now accurately shows the cooldown bar and time",
-        "Also has an indicator whether the healing effect is in place or not (the little [+] icon)",
-        {
-          "Specifically for melee players, but for general uses. There's a new option called Quick Heal": [
-            "This makes it so the keybind allows you to heal yourself INSTANTLY, without the need of pressing again to heal yourself",
-            "However, the trade-off is that you won't be able to heal OTHERS with the feature on."
-          ]
-        },
-        "Mobile players, you will need to double tap to either equip or insta-heal",
-        "Console players, you will need to press (Y, TRIANGLE) to insta-heal or equip. (If the intermission button is visible, it won't do nothing to avoid double Y usages)",
-        "Additionally for console players, you will automatically have insta-heal as the equip option is a little janky for console.",
-        "Those who wish to use wrench or ARE engineer gamers, on PC. The keybind will switch from E to R (YES i know R is for reload but it gets overridden so don't worry...). To avoid accidentally equipping the medkit/healing."
-      ],
-      "Undead Site Contract": [
-        "Added a new role: THE FLAG BEARER/CAPTAIN (Totally not to advertise the UGC item). This does nothing but gives a singular person the flag to roleplay as the captain or something. Basically u have more aura",
-        "Accommodated the ultrakit to the new medkit system",
-        "Frog Squads have a circle marker above them to easily locate them (Only visible for those in the squad)",
-        "(IMPORTANT) Fixed a bug where the first squad member to escape would receive all rewards, and the remaining members still inside the sewers OR outside of the sewers would be force-kicked despite being alive and in the process of escaping. This also caused the game to progress immediately after the first escape rather than waiting for everyone. This is now fixed",
-        {
-          "Wave 8": [
-            "New dialogues to make it clearer to NOT kill the super jugg"
-          ]
-        }
-      ],
-      "Wave 9 Adjustments": [
-        "Zath now has a chance to spawn Hazmite and Impalers for his mercenary.",
-        "When you kill Vin, Zath's crashout sequence has been adjusted for Impossible mode. He will now spawn an additional 6 more bombers and hazmites and an extra screaming eagle",
-        {
-          "Hazmites has been adjusted": [
-            "Their mist now gradually increases BUT lasts longer",
-            "In impossible, their mist now lasts slightly longer AND increases in size faster",
-            "They still prioritize players BUT will be smart by targeting players who haven't been already targeted by Hazmites."
-          ]
-        }
-      ],
-      "Mutual Greed": [
-        "Fixed Mutual Greed giving the wrong value (+6% enemy HP instead of 9% enemy HP), Mutual Greed now gives +9% Wave Income instead of +3%"
-      ],
-      "Adjustments": [
-        {
-          "Altered Bomber's core rush timer variance": [
-            "Higher minimum time, lower maximum time",
-            "Removed Bombers having a 50% chance to rush the core anyways even after the timer expired, as it made them freak out and swap targets rapidly"
-          ]
-        },
-        "Reduced regular detection range. (2500 -> 250)",
-        "Removed Headshot DMG handicaps on IMPOSSIBLE+, CW (HARD)+, DIV (HARD)+ (Handicaps against bosses still exist)",
-        "Removed target predictions for Zombie Combat Cars (ZCC)"
-      ],
-      "Fixes": [
-        "Removed the queue system entirely for the achievement loading. The cache itself is already efficient and fast and the queue system has done nothing but cause issues by killing servers with infinite loading badges so it has been removed until further notice (most likely gone forever)",
-        "Yes, this is the reason why your badges never load. Which thankfully is deprecated now.",
-        {
-          "Fixed General Zath personally using his marked target (the one he uses to order his infantry) instead of his regular target": [
-            "This is what made him hard lock onto Jorg and Sky Terror"
-          ]
-        }
-      ]
-    }
+    "content": [
+      {
+        "header": "Medkits Overhaul",
+        "items": [
+          "The new system allows the medkits to be on its own slot, with a keybind attached",
+          "Upon healing, it will auto-equip the last weapon used (So you don't have to struggle on reequipping your weapons)",
+          "Medkits now accurately shows the cooldown bar and time",
+          "Also has an indicator whether the healing effect is in place or not (the little [+] icon)",
+          {
+            "Specifically for melee players, but for general uses. There's a new option called Quick Heal": [
+              "This makes it so the keybind allows you to heal yourself INSTANTLY, without the need of pressing again to heal yourself",
+              "However, the trade-off is that you won't be able to heal OTHERS with the feature on."
+            ]
+          },
+          "Mobile players, you will need to double tap to either equip or insta-heal",
+          "Console players, you will need to press (Y, TRIANGLE) to insta-heal or equip. (If the intermission button is visible, it won't do nothing to avoid double Y usages)",
+          "Additionally for console players, you will automatically have insta-heal as the equip option is a little janky for console.",
+          "Those who wish to use wrench or ARE engineer gamers, on PC. The keybind will switch from E to R (YES i know R is for reload but it gets overridden so don't worry...). To avoid accidentally equipping the medkit/healing."
+        ]
+      },
+      {
+        "header": "Undead Site Contract",
+        "items": [
+          "Added a new role: THE FLAG BEARER/CAPTAIN (Totally not to advertise the UGC item). This does nothing but gives a singular person the flag to roleplay as the captain or something. Basically u have more aura",
+          "Accommodated the ultrakit to the new medkit system",
+          "Frog Squads have a circle marker above them to easily locate them (Only visible for those in the squad)",
+          "(IMPORTANT) Fixed a bug where the first squad member to escape would receive all rewards, and the remaining members still inside the sewers OR outside of the sewers would be force-kicked despite being alive and in the process of escaping. This also caused the game to progress immediately after the first escape rather than waiting for everyone. This is now fixed",
+          {
+            "Wave 8": [
+              "New dialogues to make it clearer to NOT kill the super jugg"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Wave 9 Adjustments",
+        "items": [
+          "Zath now has a chance to spawn Hazmite and Impalers for his mercenary.",
+          "When you kill Vin, Zath's crashout sequence has been adjusted for Impossible mode. He will now spawn an additional 6 more bombers and hazmites and an extra screaming eagle",
+          {
+            "Hazmites has been adjusted": [
+              "Their mist now gradually increases BUT lasts longer",
+              "In impossible, their mist now lasts slightly longer AND increases in size faster",
+              "They still prioritize players BUT will be smart by targeting players who haven't been already targeted by Hazmites."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Mutual Greed",
+        "items": [
+          "Fixed Mutual Greed giving the wrong value (+6% enemy HP instead of 9% enemy HP), Mutual Greed now gives +9% Wave Income instead of +3%"
+        ]
+      },
+      {
+        "header": "Adjustments",
+        "items": [
+          {
+            "Altered Bomber's core rush timer variance": [
+              "Higher minimum time, lower maximum time",
+              "Removed Bombers having a 50% chance to rush the core anyways even after the timer expired, as it made them freak out and swap targets rapidly"
+            ]
+          },
+          "Reduced regular detection range. (2500 -> 250)",
+          "Removed Headshot DMG handicaps on IMPOSSIBLE+, CW (HARD)+, DIV (HARD)+ (Handicaps against bosses still exist)",
+          "Removed target predictions for Zombie Combat Cars (ZCC)"
+        ]
+      },
+      {
+        "header": "Fixes",
+        "items": [
+          "Removed the queue system entirely for the achievement loading. The cache itself is already efficient and fast and the queue system has done nothing but cause issues by killing servers with infinite loading badges so it has been removed until further notice (most likely gone forever)",
+          "Yes, this is the reason why your badges never load. Which thankfully is deprecated now.",
+          {
+            "Fixed General Zath personally using his marked target (the one he uses to order his infantry) instead of his regular target": [
+              "This is what made him hard lock onto Jorg and Sky Terror"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
