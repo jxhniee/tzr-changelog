@@ -1746,14 +1746,15 @@
       {
         "header": "Main:",
         "items": [
+          "Explore a new story, tempting the fate of the past..",
           "Redesigned Achievements Frame- Visually fixed Turret's upgrade bar",
           "New Dialogue System",
           "Added a hide button for the voting system",
           "New storyline voting system",
-          "**ADDED 4 NEW DIFFICULTIES**",
-          "**ADDED 2 NEW WEAPONS & 1 ARMOUR**",
-          "**Completely revamped the main storyline: Revenge**",
-          "Removed: **Cash Starve**",
+          "ADDED 4 NEW DIFFICULTIES",
+          "ADDED 2 NEW WEAPONS & 1 ARMOUR",
+          "Completely revamped the main storyline: Revenge",
+          "Removed: Cash Starve",
           "can no longer equip tools while seated",
           "fixed chair breaking the entire shop for some reason",
           "building related shop functions will no longer break the entire (client) shop!!!!!",
@@ -1810,7 +1811,7 @@
             ]
           },
           {
-            "**Endless Mode:**": [
+            "Endless Mode:": [
               "Added a cap limit for the zombie kill goal (100)",
               "Added 30+ music tracks for Endless to prevent repetitiveness"
             ]
