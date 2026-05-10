@@ -1739,6 +1739,68 @@
     ]
   },
   {
+    "version": "24.2.0",
+    "date": "2024-08-17",
+    "title": "The Colt Collab Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          {
+            "New Map: Ballad": [
+              "A canal that used to be a popular grouping area for mobsters, now rebuilt into one of the Rogothian Team's bases for operations. Changed the lighting on all maps so hopefully they look more bearable. Furthermore, other maps have received flavour updates. As in, they'll actually affect gameplay."
+            ]
+          },
+          {
+            "New Feature: Hazard Conditions!": [
+              "Classic - Unchanged",
+              "Lazy Winter - There's a fog, but everybody knows that. Except it stays around at night now. Furthermore, all land NPCs including players will move more slowly on this map! Turns out snow isn't suitable for running. Or driving.",
+              "Wargame - Remember the destroyer occasionally patrolling far out? Those guys will be back more oftenly, depending on what difficulty you play now! Furthermore, vehicles will drive fairly quickly on this map.",
+              "Undead Site - There's a cliche red mist that harms your HP regeneration and also acts as a fog. It's less noticable at day but much more at night. The mist also disables night vision. Don't worry, you can still see at night. Curious.",
+              "Ballad - Unchanged, since it is a bridge."
+            ]
+          },
+          {
+            "New Hero: Emigna": [
+              "She's a melee, a bit slow, but deals good damage. She deals more damage the more time she spends attacking. I also spent a small amount of time on her AI, so maybe she won't be completely useless. But I have little faith in myself and the AI"
+            ]
+          },
+          {
+            "Added Falcon (courtesy of Vederence)": [
+              "This is a new allied aircraft which can be unlocked on the 5th level of the air branch. View its description in-game"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments:",
+        "items": [
+          {
+            "Annihilinator:": [
+              "Price: 25000 \u2192 30000",
+              "Weight: 120 \u2192 150"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          {
+            "Battlemage:": [
+              "He's got more health."
+            ]
+          },
+          "Fixed Civil War 2.0(tm) and also added a badge for it. Having this badge allows you to recruit..",
+          "Changed some soundtracks for Civil War.",
+          "Undead Brigade Tanks will now ignore enemies at longer distance.",
+          "Screaming Eagle now may appear more frequently. But wait, unfair, you say? I have nerfed their machine gun damage by 25%. Hooray. sorry, it's not free anymore. I'm taking it away."
+        ]
+      }
+    ],
+    "dev_comment": "Announcing the collaboration between.. Colt 2 and The Zombie's Revenge!! We are very grateful to have been given the opportunity to collaborate with the talented folks at Moonlight Rising! As such, we have prepared some content you may enjoy if you manage to earn a specific badge from each other's games!"
+  },
+  {
     "version": "24.1.0",
     "date": "2024-05-02",
     "title": "The Final Update",
