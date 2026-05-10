@@ -1737,5 +1737,33 @@
         ]
       }
     ]
+  },
+  {
+    "version": "25.1.0",
+    "date": "2024-05-02",
+    "title": "The Final Update",
+    "content": [
+      {
+        "header": "This update includes..",
+        "items": [
+          "A partially complete Civil War. Experience 6 waves of the what-could-have-been gamemode.",
+          "Overhauled Mercenary GUI",
+          "Removal of \"Katana\"",
+          "Removal of \"Golden Katana\"",
+          "Removal of \"Flak Gun\"",
+          "Addition of \"Feuerregen\" - Mid-Game Melee Weapon",
+          "Addition of \"Zeushammer\" - Late-Game Melee Weapon",
+          "Overhauled \"Sword\" -> \"Sword and Shield\"",
+          "Return of \"Annihilationator\" - Late-Game Ranged Weapon",
+          "Remodels and Remasters of several Noob and Zombie NPCs.",
+          "New animation for.. M249, M134, Debellaturus, Sword"
+        ]
+      },
+      {
+        "header": "This list is possibly incomplete",
+        "items": []
+      }
+    ],
+    "dev_comment": "I will be no longer working on TZR. I can\u2019t stay here forever. This may not come across as surprising to some, alas, this decision is FINAL. Thank you for following our journey and playing this game. (john tzr note: bro didn't know he was gonna work on it for more years...)"
   }
 ]
