@@ -933,5 +933,49 @@
         ]
       }
     ]
+  },
+  {
+    "version": "25.4.4",
+    "date": "2025-08-10",
+    "title": "Melee Update",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          "Added ??? to the Pop Culture section of the Token Shop"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Player HP Regen increased by 10%",
+          "Revised LVL Recommendations and revised badge requirements for certain difficulties",
+          "Nerfed Blade Dancer, Imperator, Guard, Kataphractoi, and Immortal speed on CW (Hard); old speed moved to CW (IMP)",
+          "Adjusted enemy Ultratech Invictus (will strafe less)"
+        ]
+      },
+      {
+        "header": "Tank Adjustments",
+        "items": [
+          "Jaguar (Merc) size reduced from 4 to 3",
+          "Jaguar attack speed increased by 100%",
+          "Tank 4 price increased to 5000",
+          "Tank 5 price reduced to 6000",
+          "Tank 5 now also increases infantry stats by an additional 5%",
+          "Fixed Jaguars not having proper target prioritizations",
+          "Doubled Jaguar range",
+          "Battle Wagons and Tractor Hunters will try to upgrade into Lynxes if possible (Mercs cannot)",
+          "Lynxes will try to upgrade into Lions",
+          "Eagle Hunters will try to upgrade into Jaguars"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed Reworked Tanks being completely unaffected my speed modifiers"
+        ]
+      }
+    ],
+    "dev_comment": "Hi people, small update today until we start working on the next one. I didn't expect to release one today but a bug forced my hands."
   }
 ]
