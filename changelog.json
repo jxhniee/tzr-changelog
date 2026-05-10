@@ -1,5 +1,104 @@
 [
-
+  {
+    "version": "26.6.3",
+    "date": "2026-04-01",
+    "title": "April Fools Update",
+    "content": [
+      {
+        "header": "New Features",
+        "items": [
+          "Civil War has been added with new content!",
+          "New mercenaries for hire in civil war",
+          "New Equipments!",
+          "Disposable anti-tank launcher weapons",
+          "Grenades has been reworked"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Changing your perks and augments outside of intermission now triggers a respawn, and a subsequent stacking of respawn time if you do it repeatedly. This does not count towards your deaths.",
+          "Huysven infantry speed has been halved"
+        ]
+      },
+      {
+        "header": "Base Adjustments",
+        "items": [
+          "CORE gets +5k on civil war and DIV, GATE gets +5k on DIV",
+          "The base has removed the balcony, with an upcoming base changes in the future."
+        ]
+      },
+      {
+        "header": "Dedsfang Adjustments",
+        "items": [
+          "Fixed the horrendous fog on the last wave on Deluge",
+          "Cypher (Deluge)",
+          "Rest (Healing)",
+          "Slightly reduced the health threshold that he can use it at so he isn't wasting as much of it",
+          "Cancel early if he's already at full healthCancel early if he finds that he's taking more damage than healing (only for the enemy version)",
+          "Allied Cypher should attempt using it more often when sitting at the base",
+          "Chase-down (Charge)",
+          "Reduced the amount of drift reduction in Impossible mode so it's less of a jump compared to Revenge (Bri'ish mode still has the current one)",
+          "Arm Kanone",
+          "Slightly nerfed damage",
+          "RPG, Arm Kanone, RPG Ranger",
+          "Doubled projecticle speed. (240 \u2192 480)",
+          "This is still ridiculously low compared to most other enemy projectiles",
+          "Rocketractor:",
+          "Now fires inaccurate rockets instead of missiles",
+          "DMG: 3000 > 2000",
+          "HP: 8000 \u2192 12000",
+          "Restored Eagle Hunter's 2x damage against aerial targets from its pre-rework version"
+        ]
+      },
+      {
+        "header": "RDF Adjustments",
+        "items": [
+          "Since allied tanks now move closer to the front, they now have 50% more max HP",
+          "Lion Ace now has 80k HP",
+          "Allied tanks now prefer longer engagement ranges the more damaged they are",
+          "Tanks has been adjusted to improve performace (Look into the trello for information about it)",
+          "Doubled allied (RDF) Invictus' panzerfaust projectile speed, also applied for legion XII sipahi"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Fixed Solothurn S-18 not getting affected by Blast Radius modifier",
+          "Fixed Potassium Enforcer not getting affected by Blast Radius modifier, increased the base value from 45 to 80",
+          "Kyths RPG buffed",
+          "Blast Radius: 25 -> 60",
+          "Explosive Damage Ratio: 15% -> 25%",
+          "Fixed a bug concerning CK1 causing it to not deal DMG",
+          "Fixed/buffed XIV Armor back to +15 Stamina instead of +10"
+        ]
+      },
+      {
+        "header": "Armour Adjustments",
+        "items": [
+          "Certain armor attachments (like Advanced Ballistic Optics) will now reset your character to properly update the stats"
+        ]
+      },
+      {
+        "header": "Engineer Adjustments:",
+        "items": [
+          "Scraps capture bonus down to 10 per tier The base bonus for capturing tanks is now dependent on their supplies requirement. You will instead get 30% of the supplies required as the coins bonus. For example capturing a ZAC will yield 30 coins since it requires 100 supplies. An imperial destroyer yields 90.",
+          "Tier 3 Landmines now require 150 supplies to detonate"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Fixed all tank MG",
+          "Fixed wrench not being able to \u201crepair\u201d destroyed allied tanks with the main function being to reduce their cooldown. Updated the tooltip to reflect this",
+          "Fixed being able to capture tanks not part of the wave",
+          "Fixed Joe's gas grenade not having a noise that sounds like gas is releasing",
+          "Fixed a Network owner shenanigans with the NPCs which may feel more awkward to fight at first especially cypher"
+        ]
+      }
+    ],
+    "dev_comment": "To view the april fools stuff, refer to the trello please"
+  },
   {
     "version": "26.6.2",
     "date": "2026-03-15",
