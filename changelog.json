@@ -401,5 +401,163 @@
         ]
       }
     ]
+  },
+  {
+    "version": "26.4.0",
+    "date": "2026-01-16",
+    "title": "The Alexios Update: Part Two",
+    "content": [
+      {
+        "header": "New Content & Features",
+        "items": [
+          "Due to the recent Roblox update disabling the communication for most players on Roblox. Pings are now available to everyone without the need of augments. Eventually we plan to add a feature to further enhance the communication!",
+          "NEW AUGMENT FEATURES!  Eye augments will now include aim-assist, which is available for all devices!",
+          {
+            "New Weapons! (All unlockable through tokens!))": [
+              "M79 (500 Tokens)",
+              "Milkor MGL (1,000 Tokens)",
+              "CK1 (2,000 Tokens)",
+              "MK19 AGL (2,000 Tokens)"
+            ]
+          },
+          {
+            "A new section has opened in the token shop\u2026 Foreign Firepower!!": [
+              "PSMG56 (2,000 Tokens)"
+            ]
+          },
+          {
+            "Furthermore.. NEW ARMOR!": [
+              "Pooperii Combat Gear (2,000 Tokens)",
+              "Azhknean Survialist (750 Tokens)",
+              "Champion Armour",
+              "Recon Armour",
+              "Heavy Recon Armour",
+              "Heavy Recon Officer"
+            ]
+          },
+          "New Mode\u2026 CLASSIC BRI\u2019ISH!! FACE YOUR FEARS!",
+          "Christmas decorations has been removed, and Classic has been restored."
+        ]
+      },
+      {
+        "header": "Quality of Life",
+        "items": [
+          {
+            "Deluge portraits has been completely been overhauled and updated!": [
+              "Additionally\u2026 Cypher, Dark Prac, Vin, and General Zath model have been updated!"
+            ]
+          },
+          "General Zath AI has been touched up!",
+          "New dialogues for Deluge!",
+          {
+            "Revamped the animations to the weapons, with additional QoL touch-ups!": [
+              "Revamped Animations",
+              "You can now aim in third person",
+              "Weapons has new idle animations"
+            ]
+          },
+          "The menu has been redesigned visually, with a new slideshow and scenery to look at!",
+          "Armour has been retouched, making them cooler, with updated icons!",
+          "Added Shift lock support for console with the right Dpad button."
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Adjusted Zath's gas attack",
+          "Maus now has 100k less base HP on Hard and below",
+          "Zath now starts with 250k base HP instead of 120k, 350k if on Impossible",
+          "Allied Ranged NPCs now have a chance to spawn as a Field Maintenance",
+          "Certain UI texts have been updated to clarify specifically Ranged/Melee damage"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "Jorg now heavily prioritises enemy Screaming Eagles and Falcons",
+          {
+            "Emigna's Duelist buffed": [
+              "Price: 3000 -> 2000"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Grenadier Armour now increases All Splash Damage by 30%",
+          "Increased all player projectile speed by 20%",
+          {
+            "Dual FN Five-seveN [BUFFED]:": [
+              "Accuracy: 60% -> 70%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          "Legion XII armor now costs tokens",
+          {
+            "Legion XII Armor rebalanced": [
+              "HP Boost: x40 -> x38",
+              "Bonus: +25%",
+              "Mag & Ammo",
+              "Weight: 90 -> 140"
+            ]
+          },
+          {
+            "Legion XIV Armor nerfed": [
+              "Now grants 5% less NPC stats than before"
+            ]
+          },
+          {
+            "Totenkopf Armor rebalanced": [
+              "Price: 13000 -> 14000",
+              "Bonus: +5% Crit Chance"
+            ]
+          },
+          {
+            "Armor of Acknee nerfed": [
+              "Price: 16660 -> 17770",
+              "Grants 5% less NPC stats than before"
+            ]
+          },
+          {
+            "Grenadier Armor buffed": [
+              "Price: 9000 -> 8000",
+              "Increases All Splash Damage by 30%"
+            ]
+          },
+          {
+            "Wheelchair's nerfed:": [
+              "Stamina Usage: 40% -> 80%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Engineer Adjustments",
+        "items": [
+          {
+            "Engineer ammo crates buffed": [
+              "Tier 1",
+              "Tier 2 (Path 1)",
+              "Tier 2 (Path 2)"
+            ]
+          },
+          "Buffed landmines"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed singleplayer servers turning Multiplayer as soon as the main participating player does something instead of it being triggered by newly joined players doing something",
+          "Previously fixed an issue where the contract doesn't fail properly, it will now fail",
+          "More on trello..."
+        ]
+      }
+    ],
+    "dev_comment": "DISCLAIMER: Undead Site contract which was promised for this update will have to be delayed! We are doing our best to polish the contract but to ensure that you can enjoy the other new content we've prepared, Alexios Pt. 2 will be released, and the contract be pushed back onto a future update."
   }
 ]
