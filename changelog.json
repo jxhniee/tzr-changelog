@@ -1619,5 +1619,123 @@
         ]
       }
     ]
+  },
+  {
+    "version": "25.3.0",
+    "date": "2025-03-22",
+    "title": "The Heraclian Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          {
+            "New Map: Vale": [
+              "New OST:",
+              "\u201cMy History Won\u2019t Be Rewritten\"",
+              "\"Spirit to Prevail\"",
+              "\"They Cannot Stop Us\"",
+              "\u201cThe Soul of Lukhea Still Rains\u201d",
+              "New Hazard Event:",
+              "\u201cChances of a flood event rising, leveling the area and forcing zombie spawns closer to the base.\u201d",
+              "New Enemy: Training Paratroopers",
+              "Supports: Revenge, Civil War, and Divergence!"
+            ]
+          },
+          {
+            "Return of the\u2026 Golden Katana!": [
+              "You\u2019re now able to purchase and receive the badge for the Golden Katana! (Don\u2019t you dare make us remove it again)"
+            ]
+          },
+          {
+            "Under Siege:": [
+              "Now Supports Divergence!",
+              "New OST:",
+              "\u201cDesired Vengeance\u201d"
+            ]
+          },
+          {
+            "New Feature: Contracts": [
+              "Complete Objectives to get a cool sequence around wave 10 and sum cool badges and EXP!",
+              "Only available through: Hard - Impossible (Brutal Modes and Endless modes are excluded and so is Custom Mode)",
+              "Available only in: Vale (More maps will be supported in the future!)"
+            ]
+          },
+          {
+            "New Feature: Challenges": [
+              "The Empire\u2019s Servant: Complete all seven maps in Impossible!"
+            ]
+          },
+          {
+            "New UI:": [
+              "Augmentation UI + Augments Rework",
+              "Contract UI",
+              "Challenges UI"
+            ]
+          },
+          {
+            "New Room: War Room": [
+              "Includes: Mr. Jones (Contractor), Jamie (Mercenary) and other NPCs!"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Huy Adjustments",
+        "items": [
+          "This is the part where I ruin lives and destroy homes.",
+          {
+            "All allied tanks start with 30% more HP and DMG.": [
+              "Eagle Hunters (on top of the above buffs) now deal 30% more DMG in general and 100% extra damage against aerial targets.",
+              "Eagle Hunters, Tractor Hunter, Battle Wagon, Lynx, Lion (on top of the above buffs) now start with more HP, ranging from 3000-5000 increase.",
+              "Lion Ace now starts with 10000 more HP (above buffs not included)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Shop:",
+        "items": [
+          {
+            "Grenade:": [
+              "Throw a grenade at your enemies!"
+            ]
+          },
+          {
+            "Helmets:": [
+              "MOST armors will be supported with Helmets (Cosmetics only)"
+            ]
+          },
+          {
+            "Engineer Update:": [
+              "New Mines!",
+              "(Fixed mine placements)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "UI",
+        "items": [
+          "Revamped Voting UI"
+        ]
+      },
+      {
+        "header": "Re-balances/Others:",
+        "items": [
+          {
+            "Dialogue:": [
+              "Switched Dialogue to Server Sided due to performance issues on the client side",
+              "Fixed a bug where Dialogue started creating many sounds, clogging the SoundService and making the game laggier",
+              "Improved Dialogue for: Revenge Storyline",
+              "Rewrote Vindictahn wave 10 speech",
+              "Rewrote parts of Divergence",
+              "Minor rewrites for Revenge (Base-game) dialogues"
+            ]
+          },
+          "AI: An issue with Cypher\u2019s AI has been fixed",
+          "Moved Mercenary into the War Room"
+        ]
+      }
+    ]
   }
 ]
