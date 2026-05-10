@@ -1,21 +1,8 @@
 [
-  {
-    "version": "26.6.3",
-    "date": "May 9th, 2026",
-    "title": "Test Update",
-    "content": [
-      {
-        "header": "New Features",
-        "items": [
-          "This is a test bullet"
-        ]
-      }
-    ],
-    "dev_comment": "this is a test comment"
-  },
+
   {
     "version": "26.6.2",
-    "date": "March 16th, 2026",
+    "date": "2026-03-15",
     "title": "The Unexpected QoL Update!",
     "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break\u2026",
     "content": [
@@ -100,46 +87,6 @@
       }
     ]
   },
-  {
-    "version": "26.6.3",
-    "date": "April 1st, 2026",
-    "title": "April Fools Update",
-    "content": [
-      {
-        "header": "New Features",
-        "items": [
-          "Civil War has been added with new content!",
-          "New mercenaries for hire in civil war",
-          "New Equipments!",
-          "Disposable anti-tank launcher weapons",
-          "Grenades has been reworked"
-        ]
-      },
-      {
-        "header": "General Adjustments",
-        "items": [
-          "Changing your perks and augments outside of intermission now triggers a respawn, and a subsequent stacking of respawn time if you do it repeatedly. This does not count towards your deaths.",
-          "Huysven infantry speed has been halved"
-        ]
-      },
-      {
-        "header": "Base Adjustments",
-        "items": [
-          "CORE gets +5k on civil war and DIV, GATE gets +5k on DIV",
-          "The base has removed the balcony, with an upcoming base changes in the future."
-        ]
-      },
-      {
-        "header": "Dedsfang Adjustments",
-        "items": [
-          "Fixed the horrendous fog on the last wave on Deluge",
-          "Cypher (Deluge)",
-          "Rest (Healing)",
-          "Slightly reduced the health threshold that he can use it at so he isn't wasting as much of it",
-          "Cancel early if he's already at full healthCancel early if he finds that he's taking more damage than healing (only for the enemy version)"
-        ]
-      }
-    ],
-    "dev_comment": "To view the april fools stuff, refer to the trello please"
-  }
+
+  
 ]
