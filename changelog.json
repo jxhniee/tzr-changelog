@@ -858,5 +858,80 @@
       }
     ],
     "dev_comment": "The TZR Team for the most part has been juggling between work and development on this game for nearly 2 months. For that reason, we unfortunately hadn't been able to put out any major content for this patch. However, the next 'major' update will include a new contract, a revisit of Civil War and Divergence balance and flavor, alongside new weapons, armor and potentially even fleshing out the RDF, Melee system and the Perk System! Though nothing said here is concrete, these are some of the things that have been planned, and we hope to pick up the pace for the final months of 2025! Until then, cheers!"
+  },
+  {
+    "version": "25.4.6",
+    "date": "2025-08-23",
+    "title": "Life Quality Update 03",
+    "content": [
+      {
+        "header": "Main:",
+        "items": [
+          "New Badge! (Hint: Objective 3, Vale Contract)",
+          "Custom Mode is back! It\u2019s only available in Private Servers, and only the server owner can use it.",
+          "You can now cancel your teleportation!",
+          "Piper-96 is now renamed as the Sten Gunand the requirement is acquiring Evil Vanquished!",
+          "Intermissions In Solo are now Infinite",
+          "Changed wave 8 Divergence theme (3rd time now)",
+          "The balcony teleporter that leads you to the spawn is now colored green. The core room teleporters that bring you to the balcony are red. The ones that take you outside remain blue. This change should hopefully distinguish them better for new players.",
+          "Training Paratroopers has been nerfed due to insane stats on Wave 1, also renamed slightly.",
+          "For Vale Contract, the blueprints locations has been repositioned closer to the base to make your life easier",
+          "Under Siege Map has been slightly altered to suite the second balcony",
+          "In Vale Divergence Impossible, the number of Wave 1 Bombers has been reduced, and they now spawn at a slower rate.",
+          "Transhumanist gives -21% maintenance reduction instead of -15%"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          {
+            "Mobile": [
+              "Night Vision breaking after a core life",
+              "Fixed Shift Lock breaking upon death",
+              "Fixed the scaling issue with mobile even more"
+            ]
+          },
+          {
+            "Console": [
+              "Resolved a bug causing the AK and Sniper crosshairs to disappear.",
+              "Attempted to fix the skip intermission not working for console",
+              "Closing the Weapon Shop is now easier by pressing B."
+            ]
+          },
+          {
+            "General": [
+              "Fixed the Inventory Bug, it is gone.",
+              "Medkit Cooldown UI is now visible",
+              "Contract Completion Animation now says a quote instead of numbers (THE NUMBERS MASON, WHAT DO THEY MEAN!)",
+              "Fixed Scrap Metal disappearing when dying in Vale",
+              "Warships no longer shoot during intermissions in Vale",
+              "You can no longer glitch inside the Vale Tunnel",
+              "Vale Cannon has been repositioned",
+              "Fixed text disappearing in Melee section of the shop",
+              "Shop, Upgrades, and Merc UI will no longer block the Token UI.",
+              "Badge Displays is now properly displayed",
+              "Vale Imp Intermission uses the Vale Revenge Version instead of the traditional",
+              "Vale Wave 7 uses the inclusive music instead of the regular music",
+              "Fixed an issue regarding Screaming Eagles being too far during flooding in Vale",
+              "Rampage will accurately lock to Bewegungskrieg instead of Indomitable Spirit",
+              "Fixed Perk Highlights being yellow after refunding",
+              "Training Paratroopers have been nerfed",
+              "Fixed certain parts not recoloring on the \"Sentinel\" tank",
+              "CW non-veteran lions and deshuller 9s have changed to \"Default\" and \"Aggressive\" AIs respectively",
+              "Fixed mages targetting sandbags",
+              "Fixed Deshuller MK 6 being named MK 4",
+              "Fixed scraps not activating on certain helicopters",
+              "Fixed tripping unequipping weapons",
+              "Fixed augment shop opening early",
+              "Doubled healing output with the wrench",
+              "Fixed base max supplies not being 100",
+              "Fixed Early Exosuit stats are wrong visually",
+              "Fixed Leg augmentation not following the same format as all the other ones in regards to melee damage",
+              "Fixed Champion holding his hammer upside down"
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
