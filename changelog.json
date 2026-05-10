@@ -1739,6 +1739,37 @@
     ]
   },
   {
+    "version": "24.6.0",
+    "date": "2024-12-21",
+    "title": "The Basileios Update",
+    "content": [
+      {
+        "header": "Main:",
+        "items": [
+          "Redesigned Achievements Frame- Visually fixed Turret's upgrade bar",
+          "New Dialogue System",
+          "Added a hide button for the voting system",
+          "New storyline voting system",
+          "**ADDED 4 NEW DIFFICULTIES**",
+          "**ADDED 2 NEW WEAPONS & 1 ARMOUR**",
+          "**Completely revamped the main storyline: Revenge**",
+          "Removed: **Cash Starve**",
+          "can no longer equip tools while seated",
+          "fixed chair breaking the entire shop for some reason",
+          "building related shop functions will no longer break the entire (client) shop!!!!!",
+          "albatross no longer spawns beneath the map",
+          "wrench hotkeys (i might add a hotkey list that shows what you can press, but that'll be for later)",
+          "Added a condition which hopefully prevents multiple sells of shop items",
+          "Fixed CW End Dialogues",
+          "Fixed Mercs' Investments",
+          "New Eco changes, Mid-Late game maintenance has been increased, there is now a new mechanic which reduces this maintenance later into the game",
+          "Added new decorations to the Lazy Winter map on the left & right sided"
+        ]
+      }
+    ],
+    "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you this update, with a whole new story akin to civil war to play with! Now it's been a rather busy month, so it's not as gargantuan as it could have been, but there's plenty to do!"
+  },
+  {
     "version": "24.4.0",
     "date": "2024-10-12",
     "title": "The Doukas Update",
