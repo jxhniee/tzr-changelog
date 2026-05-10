@@ -1192,5 +1192,183 @@
       }
     ],
     "dev_comment": "As of May 5th, Huy legit became lazy and slopped this changelog up \ud83d\ude2d"
+  },
+  {
+    "version": "25.3.8",
+    "date": "2025-04-22",
+    "title": "Huy's Random Assortment of Things 02",
+    "content": [
+      {
+        "header": "UI",
+        "items": [
+          "Revamped Donation UI"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Augment shop now unlocked on Wave 2 for Divergence",
+          "Reduced CW coin gain",
+          "Reduced DIV coin gain"
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          {
+            "Mutual Greed:": [
+              "Mutual Greed\u2019s coins and enemy HP modifiers now scales with difficulty, not linearly"
+            ]
+          },
+          {
+            "Combined Arms:": [
+              "HP Reduction: -3 -> -7.5",
+              "DMG (Self): 9% -> 6%",
+              "DMG (Additional): 4% -> 7.5%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Titan Turret Adjustments",
+        "items": [
+          {
+            "Firepower:": [
+              "DMG: 325 \u2192 +450"
+            ]
+          },
+          {
+            "Range:": [
+              "DMG: 75 \u2192 +150"
+            ]
+          },
+          {
+            "RDF and Titan Turrets now have extra stats on:": [
+              "Revenge",
+              "Impossible",
+              "Bri\u2019ish",
+              "Civil War (HARD)",
+              "Civil War (IMPOSSIBLE)",
+              "Divergence (HARD)",
+              "Divergence (IMPOSSIBLE)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments: Primary",
+        "items": [
+          "Optimized damage calculation for ranged weapons for better performance.",
+          {
+            "Annihilationator Mk. III (RDF Field Modification):": [
+              "Ammo: 70 -> 72",
+              "Removed 5 seconds DOT cooldown",
+              "Anni DOT now count towards the damage count"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments: Melee\u2019s",
+        "items": [
+          {
+            "Sword n Shield:": [
+              "Speed: 2 \u2192 6",
+              "HP: 300 \u2192 500"
+            ]
+          },
+          {
+            "Feuerkuss:": [
+              "HP: 0 \u2192 250"
+            ]
+          },
+          {
+            "Feuersturm:": [
+              "HP: 0 \u2192 1,500"
+            ]
+          },
+          {
+            "Bananas: [GAMEPASS]": [
+              "HP: 3000 \u2192  5000"
+            ]
+          },
+          {
+            "Lightsaber:": [
+              "HP: 0 \u2192 2500"
+            ]
+          },
+          "Zeushammer:",
+          "HP: 0 \u2192  3000",
+          {
+            "Feuerlanze:": [
+              "HP: 0 \u2192  3000"
+            ]
+          },
+          {
+            "Dark Saber: [GAMEPASS]": [
+              "HP: 0 \u2192 3500"
+            ]
+          },
+          {
+            "Dezimator:": [
+              "HP: 0 -> 4000"
+            ]
+          },
+          {
+            "Debellaturus:": [
+              "HP: 0 \u2192 3500"
+            ]
+          },
+          {
+            "XM Ignis:": [
+              "HP: 0 -> 3500",
+              "Ignis DOT now count towards the damage count"
+            ]
+          },
+          {
+            "Golden Katana:": [
+              "HP: -40% \u2192  -30%"
+            ]
+          },
+          {
+            "True Golden Katana:": [
+              "HP: -50% \u2192  -30%"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Console:",
+        "items": [
+          "XM Bellum and AA-12 has controller support",
+          "Fixed sprinting in Controller"
+        ]
+      },
+      {
+        "header": "Bug Fixes & Other Adjustments",
+        "items": [
+          "Optimized Combined Arms, should now properly work with augments.",
+          "Fixed XM Ignis\u2019 DOT",
+          "Fixed Ghost Augment Bug",
+          "All buildings no longer collide with anything, but can still be ran over",
+          "Cypher's ai updated to not look at every unit in storage (cypher lag reduced)",
+          "Dark practioner no longer teleports when transitioning",
+          "Added failsafe for Emigna AI",
+          "Emigna, Dark Champion now teleport back to the base",
+          "Fixed Player HP Scaling",
+          "Downscaled the bulky armor helmets",
+          "Touched up Grenadier helmet\u2019s color palette",
+          "Updated the 3 years old animate script and by proxy re-enabled emotes",
+          "Improved AI Explosive hit detection",
+          "Zombie Combat Car is now fixed",
+          "New CB changes",
+          "New Apprentice changes",
+          "New Zatrox\u2019s DPS changes",
+          "CB now uses new unused song",
+          "Fixed Headless Giant not attacking and breaking",
+          "Fixed the ships not providing coastal bombardment in Vale"
+        ]
+      }
+    ]
   }
 ]
