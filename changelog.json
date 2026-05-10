@@ -977,5 +977,138 @@
       }
     ],
     "dev_comment": "Hi people, small update today until we start working on the next one. I didn't expect to release one today but a bug forced my hands."
+  },
+  {
+    "version": "25.4.0",
+    "date": "2025-07-12",
+    "title": "The Marius Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "Tokens has arrived! Depricating the useless gamepasses"
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Adjusted range of ALL weapons. Damage dropoff is now more forgiving, but the dropoff point begins slightly earlier.",
+          "Damage for certain weapons have also been adjusted to fit this new reality",
+          "Late-game sentries now have less range",
+          "Cost of Dezimator, Debellaturus, XM Ignis decreased",
+          "Cost of Totenkopf Armor increased",
+          "Debellaturus's attack speed increase is now 25% when using Armor of Acknee (The DPS is also properly increased instead of being purely visual)",
+          "Player scaling buff reverted",
+          {
+            "Economy Adjustments:": [
+              "Increased certain early game weapons' cost",
+              "Increased wave 1-4, wave 7-8 Wave Rewards",
+              "Reduced Investments scaling",
+              "There are many other changes that went missing! Sorry!"
+            ]
+          },
+          {
+            "Console / Mobile:": [
+              "Console users can now reload by pressing X (left button) when not interacting with something.",
+              "Mobile and Console fix coming soon."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "AI Adjustments",
+        "items": [
+          "AI is now more likely to prioritize targets."
+        ]
+      },
+      {
+        "header": "UI Adjustments",
+        "items": [
+          "Adjusted the location of a few top-right menu buttons.",
+          "Added text to explain how to use voice chat (press V).",
+          "Version text will no longer break."
+        ]
+      },
+      {
+        "header": "Base Systems / Modular Systems",
+        "items": [
+          "Modular Tank System:",
+          "Tanks no longer have pathfinding functionality (major rework).",
+          "RDF Tanks will now teleport to the gate when spawning.",
+          "Destroyer variants now have +10 max speed.",
+          "Increased vehicle despawn time to allow time for capturing.",
+          "Fixed tanks moving in circles due to targeting/pathfinding issues.",
+          "Fixed fire/smoke direction on some tanks.",
+          "Fixed rocket tractor shooting sideways.",
+          "Fixed certain patches on tanks appearing white.",
+          {
+            "Fixed hitbox of Imperial Tractor.": [
+              "Fixed reworked tanks not getting captured passively.",
+              "Friendly versions of \"Aggressive\" AI tanks will now keep their distance but move around more (currently unused)."
+            ]
+          },
+          {
+            "Modular Sentry System / Other Modular Buildings:": [
+              "Minigun sentries continue firing even if the last target dies.",
+              "T3/T4 sandbags now reduce damage taken from all sources at half effectiveness.",
+              "Fixed wrench staying green when changing active building."
+            ]
+          },
+          {
+            "Targeting System:": [
+              "Updated targeting module for Sentries, Tanks, and certain RDF units to reduce lag.",
+              "AI now prioritizes targets more reliably."
+            ]
+          },
+          {
+            "Wave System:": [
+              "Wavescript failing now only restarts the wave. After 3 failures, the server will reset."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          "Zombie Damage Module now applies to enemy rockets, ensuring consistent damage behavior.",
+          "Fixed tough nut and scraps perks showing incorrect values.",
+          "Emigna will no longer break revenge if bought before the Cypher fight.",
+          {
+            "Weapon/Ammo Changes:": [
+              "Reloading at an ammo box now requires just a press, no holding (wait time still applies).",
+              "Fixed reloading on controller.",
+              "Players accidentally joining no longer immediately invalidate a solo run unless they take an action that impacts the game.",
+              "Fixed being able to capture enemies while they're alive.",
+              "Fixed chatting unequipping weapons."
+            ]
+          },
+          {
+            "Movement / Teleport System:": [
+              "Teleport speed now caps at 10% health to prevent counter-breaking at super-low health values.",
+              "You can no longer spam the teleport button.",
+              "Units inside the core room will teleport out if the gate is alive.",
+              "Teleporting defaults to helicopter during intermission.",
+              "Teleporting to helicopters fixed."
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Sound / Audio Adjustments",
+        "items": [
+          "Jets now use proper soundgroups that can be adjusted via volume settings.",
+          "Increased voice chat (VC) volume."
+        ]
+      },
+      {
+        "header": "Data Management Updates",
+        "items": [
+          "Fixed server list.",
+          "Reliable data saving; will not lose data.",
+          "Fixed data loading reappearing when a game finishes."
+        ]
+      }
+    ],
+    "dev_comment": "This is what you've been dreading for."
   }
 ]
