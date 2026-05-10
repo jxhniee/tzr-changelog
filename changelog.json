@@ -1,6 +1,6 @@
 [
   {
-    "version": "26.2.2",
+    "version": "26.3.2",
     "date": "2026-04-01",
     "title": "April Fools Update",
     "content": [
@@ -100,7 +100,7 @@
     "dev_comment": "To view the april fools stuff, refer to the trello please"
   },
   {
-    "version": "26.2.1",
+    "version": "26.3.1",
     "date": "2026-03-15",
     "title": "The Unexpected QoL Update!",
     "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break\u2026",
@@ -187,7 +187,7 @@
     ]
   },
   {
-    "version": "26.2.0",
+    "version": "26.3.0",
     "date": "2026-02-27",
     "title": "The John Update",
     "content": [
@@ -1771,74 +1771,6 @@
     "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you this update, with a whole new story akin to civil war to play with! Now it's been a rather busy month, so it's not as gargantuan as it could have been, but there's plenty to do!"
   },
   {
-    "version": "24.4.0",
-    "date": "2024-10-12",
-    "title": "The Doukas Update",
-    "content": [
-      {
-        "header": "New Contents & Features:",
-        "items": [
-          "Super Juggerinator has been reworked",
-          {
-            "New UI:": [
-              "Base Upgrades",
-              "Mercs",
-              "Feedback System",
-              "Teleportation System (not really a UI thing, but redoing the script)",
-              "Wrench Menu (although Miru did basically all of the finishing touches and scripting)",
-              "Revamped Inventory System"
-            ]
-          },
-          {
-            "Merc UI:": [
-              "Heros have a slower cooldown",
-              "New visual for hiring mercenaries",
-              "Sections are able to be closed with the arrows",
-              "Fixed the tanks breaking the Mercs or not spawning/working"
-            ]
-          },
-          {
-            "New Map: UNDER SIEGE": [
-              "New OST:",
-              "\"Protectors of the City\"",
-              "\"An Undying Wish\"",
-              "\"Storm Of Lukhea\"",
-              "New Hazard: Boosts/Charge Zombies whenever it's struck",
-              "New Enemy: Electrified Bomber + possibly more",
-              "Custom spawnpoints for \"Under Siege\"",
-              "1% of getting strike and actually gaining boost from lightning (one time only) + getting a badge from it",
-              "Chance of Electrobie spawning when an enemy dies and is charged, with a consistent 15% chance (for all modes) to spawn an Electrified Bomber"
-            ]
-          },
-          {
-            "Endless Mode:": [
-              "Added a cap limit for the zombie kill goal (100)",
-              "Added 30+ music tracks for Endless to prevent repetitiveness"
-            ]
-          },
-          {
-            "Engineer Rework - Part 1 of 2": [
-              "Entire engineer system has been migrated to a new system",
-              "Buildings now have a universal cooldown, along with their own cooldown, to prevent spamming",
-              "Sandbags and sentries now will break when an enemy tank rolls over it, to avoid potential cheese",
-              "Brand new wrench UI (very cool)",
-              "Repairing and capture indicators (less annoying now)",
-              "With this new system, you can now place buildings on tanks and eachother, allowing for a different playstyle",
-              "Tanks have been made easier to stand on to help with this (DO NOT GO OVER 1 PLAYER)",
-              "Buildings can now be placed in any rotation",
-              "Sandbags",
-              "Sentries",
-              "Ammo box (NEW)"
-            ]
-          },
-          "New Assault Tractor model",
-          "New Big Tractor model",
-          "New Tractor Hunter model"
-        ]
-      }
-    ]
-  },
-  {
     "version": "24.5.0",
     "date": "2024-10-27",
     "title": "The Theodosian Update",
@@ -1908,6 +1840,74 @@
         "header": "**New Badge:**",
         "items": [
           "\"Unwavering yet precise, just like the weapon that stands before you.\" // (A true challenge in plain sight?)"
+        ]
+      }
+    ]
+  },
+  {
+    "version": "24.4.0",
+    "date": "2024-10-12",
+    "title": "The Doukas Update",
+    "content": [
+      {
+        "header": "New Contents & Features:",
+        "items": [
+          "Super Juggerinator has been reworked",
+          {
+            "New UI:": [
+              "Base Upgrades",
+              "Mercs",
+              "Feedback System",
+              "Teleportation System (not really a UI thing, but redoing the script)",
+              "Wrench Menu (although Miru did basically all of the finishing touches and scripting)",
+              "Revamped Inventory System"
+            ]
+          },
+          {
+            "Merc UI:": [
+              "Heros have a slower cooldown",
+              "New visual for hiring mercenaries",
+              "Sections are able to be closed with the arrows",
+              "Fixed the tanks breaking the Mercs or not spawning/working"
+            ]
+          },
+          {
+            "New Map: UNDER SIEGE": [
+              "New OST:",
+              "\"Protectors of the City\"",
+              "\"An Undying Wish\"",
+              "\"Storm Of Lukhea\"",
+              "New Hazard: Boosts/Charge Zombies whenever it's struck",
+              "New Enemy: Electrified Bomber + possibly more",
+              "Custom spawnpoints for \"Under Siege\"",
+              "1% of getting strike and actually gaining boost from lightning (one time only) + getting a badge from it",
+              "Chance of Electrobie spawning when an enemy dies and is charged, with a consistent 15% chance (for all modes) to spawn an Electrified Bomber"
+            ]
+          },
+          {
+            "Endless Mode:": [
+              "Added a cap limit for the zombie kill goal (100)",
+              "Added 30+ music tracks for Endless to prevent repetitiveness"
+            ]
+          },
+          {
+            "Engineer Rework - Part 1 of 2": [
+              "Entire engineer system has been migrated to a new system",
+              "Buildings now have a universal cooldown, along with their own cooldown, to prevent spamming",
+              "Sandbags and sentries now will break when an enemy tank rolls over it, to avoid potential cheese",
+              "Brand new wrench UI (very cool)",
+              "Repairing and capture indicators (less annoying now)",
+              "With this new system, you can now place buildings on tanks and eachother, allowing for a different playstyle",
+              "Tanks have been made easier to stand on to help with this (DO NOT GO OVER 1 PLAYER)",
+              "Buildings can now be placed in any rotation",
+              "Sandbags",
+              "Sentries",
+              "Ammo box (NEW)"
+            ]
+          },
+          "New Assault Tractor model",
+          "New Big Tractor model",
+          "New Tractor Hunter model"
         ]
       }
     ]
