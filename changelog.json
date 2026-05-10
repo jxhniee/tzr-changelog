@@ -836,6 +836,25 @@
           "Ballad: Length shortened by 100 studs,",
           "Undead Site: Length shortened by 100 studs, width by 200 (should help with the contract for the Alexios Update)"
         ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Rebuilt the voting system for the skip/start game from the ground up:",
+          "Fixed the bug preventing to skip",
+          "Fixed the bug preventing to skip in the console",
+          "Gate will now always take damage before the core",
+          "Under Siege and Vale intermission music will not be replaced anymore",
+          "Improved AI targeting of players",
+          "Certain miscellaneous stats that tracks your progress will be disabled until further notice to improve loading speed",
+          "Fixed stamina regen appearing to be 10x more than it actually is",
+          "Vale Carrier\u2019s will no longer glitch out of the map and become actual landing boats",
+          "Tanks will now actually show the captured text when they're captured, either from RNG or supplies",
+          "Tanks now play their death explosion/sound even when RNG captured",
+          "Potentially fixed double buying with tokens,",
+          "Fixed unlocks not refreshing unlock count properly,",
+          "Tanks will remove their physics on death, no longer having weird speed or rotation issues on death"
+        ]
       }
     ],
     "dev_comment": "The TZR Team for the most part has been juggling between work and development on this game for nearly 2 months. For that reason, we unfortunately hadn't been able to put out any major content for this patch. However, the next 'major' update will include a new contract, a revisit of Civil War and Divergence balance and flavor, alongside new weapons, armor and potentially even fleshing out the RDF, Melee system and the Perk System! Though nothing said here is concrete, these are some of the things that have been planned, and we hope to pick up the pace for the final months of 2025! Until then, cheers!"
