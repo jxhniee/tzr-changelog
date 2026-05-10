@@ -687,6 +687,43 @@
             ]
           }
         ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          "Divided Support Perks into the new Endurance Perks group",
+          "Private Contractor moved back to Support Perks",
+          "Glass Cannon now provides +3% total crit chance"
+        ]
+      },
+      {
+        "header": "Enemies Adjustments:",
+        "items": [
+          "Buffed International Fighter",
+          "Buffed Pooperi Mercenaries"
+        ]
+      },
+      {
+        "header": "Titan Turrets Adjustments:",
+        "items": [
+          "Fixed Titan Turrets\u2019 damage display which was incorrectly multiplied by the Titan Turrets effectiveness modifier (it already applies on RPM)",
+          "This means the visual display was incorrect, however the actual DPS is still the same no matter what."
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Dark Pract will now spawn in Horde modes",
+          "Fixed a couple building errors in the spawn lobby",
+          "Fixed a bug that caused all personally hired mercs to unilaterally commit suicide upon the departure of their contractor",
+          "Fixed Allied Feuerregen Champion dealing the same damage as the first one (should\u2019ve been 2x)",
+          "Fixed Charged Dark Practitioner not receiving damage from Golembeast.",
+          "Potential fix for recent data loss",
+          "Fixed Pooperi Mercenary shotgunner",
+          "Fixed the intermission popping mid-wave, and breaking the game at times",
+          "Fixed achievements displaying achievements that would be unobtainable to ensure your 100% is always possible",
+          "Fixed engineer equipment not being liquidated when a player leaves and doesn't come back"
+        ]
       }
     ],
     "dev_comment": "After the long hiatus, the team of TZR has come together to release not release one huge update, but split it into two! Be prepared to be blasted with new content!"
