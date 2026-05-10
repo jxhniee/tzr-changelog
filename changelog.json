@@ -296,5 +296,110 @@
       }
     ],
     "dev_comment": "After months and months of working on this damn contract. I\u2019ve been working on this contract continuously to ensure it was better than vale; eventually, it became something different, and honestly. This is one of the best passion projects I ever worked on. Other than that, Its finally here. It\u2019s finally time."
+  },
+  {
+    "version": "26.4.5",
+    "date": "2026-01-30",
+    "title": "The Battaglia Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          {
+            "New Weapons!": [
+              "Skorpion (FREE)",
+              "Mosin Nagant (FREE)",
+              "Scoped Mosin Nagant (Triumphant Will badge)",
+              "Skoutatoi (FREE)",
+              "Power Fist (FREE)",
+              "Pow-Wow 5000 (1,000 Tokens)",
+              "Xiphos (1000 Tokens)",
+              "Adriani (750 Tokens)",
+              "Akritai (REPLACES Lightsaber)",
+              "Longsword (500 Tokens)",
+              "Minipulser Mk3 (1000 Tokens)"
+            ]
+          },
+          "5 NEW ARMOR ATTACHMENTS in additon to the Constant Shield Mk. 1. Purchase a high-grade armor to see the new attachments.",
+          "NEW WIP MAP: Border Outpost.",
+          "New plushies. Yes."
+        ]
+      },
+      {
+        "header": "Quality of Life",
+        "items": [
+          "Melee Soft Rework: Rebalanced all Melee to curve down on damage slightly, more noticeable by mid-late game weapons Greatly increased the Extra HP granted by Melee Greatly increased the extra Regen granted by Melee Reduced MF\u2019s regen from 200% to 150% (this has a side effect of MF dropping slightly slower) Max MF now affected by Regen modifiers stacking, or having a low Weapon Price/Armor Price ratio (start incurring penalty at <35%) Speed Boost standardized for Melee",
+          "EASY MODE now grant 50% more coins",
+          "CW/DIV IMP, BRITISH will now grant 20% more tokens",
+          "The Token Bonus for not losing lives now increased based on difficulty, up to x2 on IMP",
+          "You will pay maintenance tax for anything used most oftenly in the wave. Swapping it out no longer avoids this tax. Removed the tax for selling mid-wave.",
+          "Interest will now only occur after all expenses have been paid",
+          "Increased TAX FREE Maintenance after Wave 5 from 300 \u2192 500 (up to 2500 on Wave 10 instead of 1500)",
+          "Minor changes to several augments, increased max weight for certain red augments",
+          "New BADGE CACHE system which loads game data much faster",
+          "Tweaked AI to not follow Ranged/Engineer players and other behaviors",
+          "Other AI tweaks",
+          "Champion (CW Boss) now drops more coins",
+          "Participation is now SLIGHTLY harder to get",
+          "RDF AI now moves back if there are no targets instead of being target practice in the middle of the map",
+          "Rebalanced Sergeant Alesia",
+          "Tweaked Divergence bosses slightly",
+          "Nerfed Tiberius and Legion XIV for causing too much emotional damage",
+          "Melee Specialist, Veteran, Champion redesigned"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "Jamie now has Thundering Advance with Kataphractoi Legs and has damage resistance while attacking"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "Increased DMG of PTRS-41, Solothurn S-18, Anzio 20mm",
+          "All Small Arms now have 2 extra mags, Heavy Arms now have 1 extra mag",
+          "Milkor MGL nerfed: 180 \u2192 160 RPM",
+          "XM-12, XM-22 now have a shield which boost HP",
+          "CC10, CK1 now boost HP",
+          "CK1 nerfed: 2600 \u2192 2300 DMG"
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          "All mid-late game Armor sets now increase Ranged and Engineer Damage",
+          {
+            "Totenkopf Armor buffed": [
+              "Price: 14,000 \u2192 13,000"
+            ]
+          },
+          "Reduced Regen dropoff for Totenkopf and Acknee, resulting in a 8% increase for the former and 18% for the latter"
+        ]
+      },
+      {
+        "header": "Engineer Adjustments",
+        "items": [
+          {
+            "Engineer ammo crates buffed": [
+              "Tier 1",
+              "Tier 2 (Path 1)",
+              "Tier 2 (Path 2)"
+            ]
+          },
+          "Buffed landmines"
+        ]
+      },
+      {
+        "header": "Bug Fixes:",
+        "items": [
+          "Fixed Air Hunters breaking the laws of thermodynamics and staying in the air forever",
+          "Fixed certain enemies shooting 3x slower than intended and nerfed their DMG to compensate for the fix",
+          "Fixed Headshots doing 3x DMG instead of 2x",
+          "Fixed Legion XIII Armor not working properly",
+          "Other fixes not mentioned here"
+        ]
+      }
+    ]
   }
 ]
