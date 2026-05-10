@@ -1368,6 +1368,49 @@
           "Fixed Headless Giant not attacking and breaking",
           "Fixed the ships not providing coastal bombardment in Vale"
         ]
+      },
+      {
+        "header": "Other Adjustments",
+        "items": [
+          "**Maus now gives 4k from 2k**",
+          "**Zath now gives 8k from 5k**",
+          "Fixed Mercenaries giving 1.5% of what its displayed investment should be",
+          "Fixed Empire Servant challenges giving you a point in divergence and civil war",
+          "Fixed coins sharing full value without dividing its value between players, thus player count being a flat multiplier towards its value during intermission.",
+          "Fixed Constant Shield being black, however in cost. The data for the color shields has been reset.",
+          "Fixed UT Mubazirun not attacking",
+          "Life Steal/Absorb now display its healed amount",
+          "Undying should activate more accurately",
+          "Server list now properly shows newer gamemodes",
+          "All Seeing no longer erroneously shows health of specific NPCs",
+          {
+            "network ownership of tanks has been given a cooldown of 10 seconds per-player": [
+              "(tanks should overall pause less, and much less with a further change down the road)"
+            ]
+          },
+          "game loads considerably faster with less welding scripts on every single model",
+          "the pen sound no longer plays atrociously load every time you join a game",
+          "the keyboard and metal banging in the spawn is slightly quieter",
+          "Sky Terror now gains 2000 max hp per RDF air branch upgrade (will update live)",
+          "Retreat threshold increased to 66% from 55%",
+          "Sky Terror now requires Infantry upgrade 4 instead of aviation 4",
+          {
+            "Jorg price reduced now you can send him into slavery for 4k": [
+              "Jorg HP: 6000 -> 12000",
+              "Unlocks on Wave 2 instead of Wave 4"
+            ]
+          },
+          "Lion Ace now costs 8k",
+          "Titan Turrets Effectiveness no longer affects BOTH damage and rpm",
+          "Tiberius DMG player scaling nerfed to 15% as opposed to 25% (huge for big servers, probably negligible otherwise)",
+          "Dimitte, Emigna, Andriscus now have 30% more HP on CW IMP",
+          "Spartacus now has 30% more HP on DIV IMP",
+          "Fixed Mercenaries giving 1.5% of what its displayed investment should be",
+          "Military Funding now has diminishing returns and no longer operates on exponential scaling",
+          "Added a damage/kills display",
+          "Removed RDF Nerf, Coin Nerf from Bri\u2019ish",
+          "Coin hogging nerfed by reducing the share you get from directly collecting it."
+        ]
       }
     ]
   },
