@@ -1,6 +1,6 @@
 [
   {
-    "version": "26.6.3",
+    "version": "26.2.2",
     "date": "2026-04-01",
     "title": "April Fools Update",
     "content": [
@@ -100,7 +100,7 @@
     "dev_comment": "To view the april fools stuff, refer to the trello please"
   },
   {
-    "version": "26.6.2",
+    "version": "26.2.1",
     "date": "2026-03-15",
     "title": "The Unexpected QoL Update!",
     "dev_comment": "I am on my supposed break, so let me just release a lil calm update on my SUPPOSED break\u2026",
@@ -187,9 +187,9 @@
     ]
   },
   {
-    "version": "26.5.0",
+    "version": "26.2.0",
     "date": "2026-02-27",
-    "title": "John Update",
+    "title": "The John Update",
     "content": [
       {
         "header": "New Content & Features:",
@@ -298,7 +298,7 @@
     "dev_comment": "After months and months of working on this damn contract. I\u2019ve been working on this contract continuously to ensure it was better than vale; eventually, it became something different, and honestly. This is one of the best passion projects I ever worked on. Other than that, Its finally here. It\u2019s finally time."
   },
   {
-    "version": "26.4.5",
+    "version": "26.2.0",
     "date": "2026-01-30",
     "title": "The Battaglia Update",
     "content": [
@@ -403,7 +403,7 @@
     ]
   },
   {
-    "version": "26.4.0",
+    "version": "26.1.0",
     "date": "2026-01-16",
     "title": "The Alexios Update: Part Two",
     "content": [
