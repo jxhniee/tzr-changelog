@@ -1131,5 +1131,66 @@
       }
     ],
     "dev_comment": "This is what you've been dreading for."
+  },
+  {
+    "version": "25.3.9",
+    "date": "2025-06-14",
+    "title": "The Isaurian Update",
+    "content": [
+      {
+        "header": "General Adjustments:",
+        "items": [
+          "Augment shop now unlocked on Wave 2 for Divergence",
+          "Increased CW coin gain",
+          "Adjusted DIV coin gain (Increased)",
+          "Improved Tiberius AI",
+          "Fixed Tiberius' EMP (Defeat Condition)",
+          "Added Divergence Zatrox\u2019s Defeat Condition",
+          "Cheaper Mercenaries",
+          "More aggressive enemy spawns on REVENGE (IMP) and CW (IMP)",
+          "Reduced HP of most bosses"
+        ]
+      },
+      {
+        "header": "Perk Adjustments",
+        "items": [
+          {
+            "Bewegunskrieg:": [
+              "DMG: 4.5% \u2192 3%",
+              "Sprint: +10% \u2192 20%"
+            ]
+          },
+          "Money is Power: Reworked",
+          "Bounty Hunter: Rebalanced",
+          "New Perk complimenting Bounty Hunter: Pariah",
+          "Removed Insurance"
+        ]
+      },
+      {
+        "header": "Base Upgrades",
+        "items": [
+          {
+            "RDF and Titan Turrets now have even more extra stats on:": [
+              "Revenge",
+              "Impossible",
+              "Bri\u2019ish",
+              "Civil War (HARD)",
+              "Civil War (IMPOSSIBLE)",
+              "Divergence (HARD)",
+              "Divergence (IMPOSSIBLE)"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Weapon Adjustments",
+        "items": [
+          "HS-40 Mangol: more range",
+          "Shak-50: more range",
+          "Potassium Enforcer: more damage"
+        ]
+      }
+    ],
+    "dev_comment": "As of May 5th, Huy legit became lazy and slopped this changelog up \ud83d\ude2d"
   }
 ]
