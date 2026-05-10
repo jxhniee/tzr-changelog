@@ -185,5 +185,116 @@
         ]
       }
     ]
+  },
+  {
+    "version": "26.5.0",
+    "date": "2026-02-27",
+    "title": "John Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          {
+            "NEW CONTRACT: UNDEAD SITE": [
+              "Difficulty: Extreme",
+              "Total Objectives: 4",
+              "XP: 10,000 | 1,000 Tokens",
+              "Additional information: Contracts will now rotate every half-week!",
+              "Contracts are now replayable and will give additional tokens even if you have the badge. (This also applies to Vale contract too!)",
+              "Tokens: 1000 \u2192 100",
+              "XP: 10000 \u2192 5000",
+              "NEW MENU:",
+              "New Server Browser",
+              "New server code to ensure that no newbs can enter your game",
+              "The level requirement is now capped based on your levels",
+              "Categories for servers to help fill your need",
+              "Custom server names (Don\u2019t be naughty..)",
+              "Expanded Reserve Servers",
+              "THREE NEW BADGES!"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "General Adjustments",
+        "items": [
+          "Decreased Kyths RPG reload time by 25%",
+          "Increased allied Cypher scaling",
+          "Decreased Vindictahn's phase 2 speed by 10% (15% on easier difficulties)",
+          "Decreased Chaos Brutalist's top speed but he'll stay there a bit longer",
+          "Imperial Accolade now requires Infantry tier 5 to hire",
+          "Cypher now has more stats on Bri'ish and is supposed to serve as the first 'final boss' for this difficulty. Emigna's  duelist will work less effectively on Bri'ish Cypher",
+          "Super Jugg and Joe will be a bit stronger on DIV IMP and by proxy Bri'ish",
+          "Re-enabled Impossible stats fully for Dark Practicioner",
+          "Increased non-boss enemy HP scaling back to 15% (previously 10%). This amount is of course affected by difficulty. The reason for this change is because normal enemies don't get the same scaling that bosses do (more dmg)"
+        ]
+      },
+      {
+        "header": "Weapons Adjustments",
+        "items": [
+          "Greatly reduced MK19 AGL's recoil and increased its Blast Radius to 80 to match the CK1",
+          {
+            "Mk19 AGL:": [
+              "Mag Size: 18 \u2192 36"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Melee Adjustments",
+        "items": [
+          "Reworked Static HP into Armour HP and Melee/Ranged weapons' Health Boosts will now be affected by Armour and HP modifiers. Rebalanced the weapons' HP and DMG values to reflect this new change. (Less HP but mid to late game melee weapons get more DPS)",
+          "The Feuersturm and Dezimator have received damage profile adjustments to bring their actual performance in line with their intended Shop Display DPS. Previously, both weapons were overperforming by approximately 30% due to legacy calculation errors between attack speed and damage multipliers.",
+          "Feuersturm: Reduced attack damage to 2,200 to accurately reflect the 2,200 DPS target (previously ~2,900 effective DPS)",
+          "Dezimator: Adjusted base damage (6,900 \u2192 5,150) to align with the 5,500 DPS target (previously ~7,400 effective DPS)",
+          {
+            "Golden Katana:": [
+              "GK damage now ALSO based on your wave participation instead of strictly on wave count",
+              "Rebalanced GK maintenance due to the new maintenance change (less early game and more late game)",
+              "New GK failure message"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Armor Adjustments",
+        "items": [
+          {
+            "Legion XIII Grenadier:": [
+              "-50% Weight Penalty",
+              "The bonus for staying 250 studs away from ANY enemy is reduced from +25% to +15%"
+            ]
+          },
+          {
+            "Pooperii Actuator Motor:": [
+              "Price: 1500 \u2192 2500",
+              "Stamina: -1 \u2192 -3",
+              "Now gives a weight penalty reduction of -25%"
+            ]
+          },
+          "Weight: 60 \u2192 ??"
+        ]
+      },
+      {
+        "header": "Hero Adjustments",
+        "items": [
+          "Made it so certain heroes don't have a heart attack/mechanical failure upon upgrading their HP",
+          "Adjusted Jamie Kataphractoi Legs:",
+          "+100 WalkSpeed -> +100% Movement Speed"
+        ]
+      },
+      {
+        "header": "Bug Fixes",
+        "items": [
+          "Fixed deluge custom",
+          "Fixed Zath's summoned vehicles being capturable",
+          "Fixed infantry landmines",
+          "Fixed Ballad not making Tanks slightly aggressive",
+          "Fixed not walking for 3 seconds after respawning",
+          "Attempted to fix Chaos Brutalist dragging me to hell in a downward spiral"
+        ]
+      }
+    ],
+    "dev_comment": "After months and months of working on this damn contract. I\u2019ve been working on this contract continuously to ensure it was better than vale; eventually, it became something different, and honestly. This is one of the best passion projects I ever worked on. Other than that, Its finally here. It\u2019s finally time."
   }
 ]
