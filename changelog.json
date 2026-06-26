@@ -1,5 +1,77 @@
 [
   {
+    "version": "26.4.0",
+    "date": "2026-06-26",
+    "title": "The Commodus Update",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "A new augment slot has arrived: \"Mod\"",
+          "New Friendlist, a new way to join your friends even faster (and NOT STALK THEM...)",
+          {
+            "New Items!": [
+              "Added Republican Guard Armor (new token armor)",
+              "Added Shield Apocalypse Gear (new token armor)",
+              "Added Subsonic Wheelchair (new token armor)",
+              "Added Wagon Disguise (new token ranged weapon)",
+              "Added Peltast (new token ranged weapon)"
+            ]
+          },
+          "Added new variant map \u201cBeautiful Site,\u201d the aftermath of the undead site contract. The scenery is just beautiful!",
+          {
+            "Improvements to compatibility": [
+              "Mobile UI layout overhaul, including buttons supporting previously missing features and a custom cursor"
+            ]
+          }
+        ]
+      },
+      {
+        "header": "Chat Adjustments:",
+        "items": [
+          "Quick Chat has been heavily altered in order to abide with Roblox's official Preset Chat guidelines. As a result, it has become extremely limited and vague but it is what it is for now"
+        ]
+      },
+      {
+        "header": "Adjustments:",
+        "items": [
+          "Adjusted the Mobile crosshair positioning to be slightly lower and more consistent across different screen sizes.",
+          "Crouching now regenerates stamina slightly faster.",
+          "Halved HP of the most basic zombie"
+        ]
+      },
+      {
+        "header": "Armor Adjustments:",
+        "items": [
+          {
+            "Armor of Acknee rebalanced": [
+              "No longer reduces ranged DMG",
+              "Now reduces HP Regen to x50% if under 250 weight instead of x75%",
+              "RDF DMG/Titan Turrets buff: +15%/+30% -> +20%/+40%"
+            ]
+          },
+          "Removed crouching with wheelchair"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments::",
+        "items": [
+          "Potassium Enforcer rebalanced to early-mid game."
+        ]
+      },
+      {
+        "header": "General Fixes:",
+        "items": [
+          "Fixed Throwable/DATL/Equipment's \"Manually Replacing\" penalty not working, it is supposed to be only 15% faster with ammo box refill (excluding ammo box refill specific modifiers which correctly reload these weapons faster) instead of using the standard weapon reload time of 6s",
+          "Fixed Veteran Falcon firing its MG slower than intended",
+          "Fixed stamina draining when \"sprinting\" even while standing still.",
+          "Fixed some issues with Console/Gamepad"
+        ]
+      }
+    ],
+    "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you another two-parter update! I hope you enjoy the first part as we prep for a major one for part two!"
+  },
+  {
     "version": "26.3.2",
     "date": "2026-04-01",
     "title": "April Fools Update",
