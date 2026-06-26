@@ -69,7 +69,13 @@
         ]
       }
     ],
-    "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you another two-parter update! I hope you enjoy the first part as we prep for a major one for part two!"
+    "dev_comment": "After a rather long hiatus, the TZR Dev Team would like to present to you another two-parter update! I hope you enjoy the first part as we prep for a major one for part two!",
+    "highlights": [
+      "New augment slot has arrived: \"Mod\"",
+      "New Friend list, a new way to join your friends even faster",
+      "New Items: Republican Guard Armor, Shield Apocalypse Gear,  Subsonic Wheelchair, Wagon Disguise, Peltast",
+      "Added new variant map: Beautiful Site"
+    ]
   },
   {
     "version": "26.3.2",
