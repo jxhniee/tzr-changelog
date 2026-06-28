@@ -25,7 +25,13 @@
         ]
       }
     ],
-    "dev_comment": "Post-Release PATCH"
+    "dev_comment": "Post-Release PATCH",
+    "highlights": [
+      "Fixed  CW Wave 10 softlocking",
+      "General Fixes",
+      "Weapon Adjustments",
+      "Note: We are investigating the unknown spike of lag inside the game. We'll let you know once we find the issue!"
+    ]
   },
   {
     "version": "26.4.0",
