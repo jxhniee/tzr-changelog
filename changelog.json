@@ -1,5 +1,32 @@
 [
-
+  {
+    "version": "26.4.1",
+    "date": "2026-06-28",
+    "title": "The Commodus Update",
+    "content": [
+      {
+        "header": "General Fixes:",
+        "items": [
+          "Fixed CW Wave 10 softlocking",
+          "Fixed Knightly Hashashin not being considered a mechanical enemy and will now correctly be damaged by EMP weaponries",
+          "Fixed Safety Override (AUGMENT) displaying its augmentation maintenance multiplier as +100% when in actuality it gave +250%",
+          "Fixed Guerilla Fighter (AUGMENT) displaying its cooldown as 60s when in actuality it was 45s. It now has the correct cooldown of 60s."
+        ]
+      },
+      {
+        "header": "Weapon Adjustments::",
+        "items": [
+          "Wagon Disguise nerfed",
+          "Speed bonus: 18 -> 6",
+          "Republican Guard armor nerfed",
+          "Now requires 3 participation score to trigger the global effect instead of 1",
+          "Life Absorb (Perk) now works on mechanical enemies at half effect",
+          "Fixed Knightly Hashashin not being a mechanical enemy"
+        ]
+      }
+    ],
+    "dev_comment": "Post-Release PATCH"
+  },
   {
     "version": "26.4.0",
     "date": "2026-06-26",
