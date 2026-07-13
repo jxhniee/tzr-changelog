@@ -1,5 +1,77 @@
 [
   {
+    "version": "26.4.2",
+    "date": "2026-07-10",
+    "title": "The Commodus Update: Patch 2",
+    "content": [
+      {
+        "header": "New Content & Features:",
+        "items": [
+          "New Map: The Watch"
+        ]
+      },
+      {
+        "header": "Game Improvements:",
+        "items": [
+          "Heavily reduced game lag",
+          "Improved AI Performance",
+          "Tanks will now try to center themselves to aim at the core, when close to the base",
+          "AI obsessing over the middle of the map is no more"
+        ]
+      },
+      {
+        "header": "General Adjustments:",
+        "items": [
+          {
+            "Reduced effects of LOW HEALTH SPEED PENALTY:": [
+              "Previously it started reducing from 66% HP at a rate of -1.5%, up to -50% Speed at roughly 33% HP.",
+              "Once below 50% HP, you will start inccuring LOW HEALTH SPEED PENALTY, at a rate of -2% Speed per 1% HP below 50%. The penalty caps out at -33% Speed at 33% HP. This penalty can be influenced by perk and augment."
+            ]
+          },
+          "Reduced the size of the fire effect when triggering abilities",
+          "Miraculum Orientis refuses to be used with other melees.",
+          "Safety Override now gives -10 stamina instead of -5",
+          "Increased cost of Power Module augments"
+        ]
+      },
+      {
+        "header": "Weapon Adjustments:",
+        "items": [
+          "Kirisute Gomen\u2019s shop restriction has been reimplemented",
+          "Picking up Golden Katana under Kirisute Gomen conditions (before wave 2) now auto-sells your inventory",
+          "Reverted Deshuller MK.VI health nerf",
+          "Peltast now has a scope with 3x less magnification than traditional snipers",
+          "M250 now has a scope with 3x less magnification than traditional snipers",
+          {
+            "AK47 buffed:": [
+              "DMG: 50 -> 55",
+              "Max Range: 1250 -> 1750",
+              "Mags: 7 -> 8"
+            ]
+          },
+          {
+            "P90 buffed:": [
+              "Range: 250-1250 -> 300-1500",
+              "DMG: 25 -> 30",
+              "Mags: 5 -> 6",
+              "Halved recoil"
+            ]
+          },
+          "Guerilla Fighter nerfed:"
+        ]
+      },
+      {
+        "header": "General Fixes:",
+        "items": [
+          "Fixed Life Absorb not working as intended",
+          "Fixed Sword n Shield, Wagon Disguise not giving its speed boost",
+          "Fixed golden katana having a weird grip position"
+        ]
+      }
+    ],
+    "dev_comment": "A secondary wave of patch has released to the game!"
+  },
+  {
     "version": "26.4.1",
     "date": "2026-06-28",
     "title": "The Commodus Update: Patch 1",
