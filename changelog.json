@@ -69,7 +69,13 @@
         ]
       }
     ],
-    "dev_comment": "A secondary wave of patch has released to the game!"
+    "dev_comment": "A secondary wave of patch has released to the game!",
+    "highlights": [
+      "A new map has entered the roster!",
+      "Heavily Reduced Game Lagging",
+      "Massive improvements to the AI",
+      "General Fixes & Adjustments"
+    ]
   },
   {
     "version": "26.4.1",
