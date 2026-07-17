@@ -4,7 +4,12 @@
     "date": "2026-07-17",
     "title": "URGENT: Account Compromised",
     "content": [],
-    "dev_comment": "TZR's group and account have been compromised and ownership has been transferred without authorization. Please leave the game for now and do not spend Robux until this is resolved. We are working with Roblox Support to restore ownership."
+    "dev_comment": "TZR's group and account have been compromised and ownership has been transferred without authorization. Please leave the game for now and do not spend Robux until this is resolved. We are working with Roblox Support to restore ownership.",
+    "highlights": [
+      "TZR's account and group have been compromised",
+      "Ownership was transferred without authorization",
+      "Please leave the game for now and avoid spending Robux"
+    ]
   },
   {
     "version": "26.4.2",
